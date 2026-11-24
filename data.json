@@ -1,0 +1,3134 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "default_currency": "EUR",
+  "schema_version": "2.0",
+  "destinations": [
+    {
+      "id": "helsinki",
+      "city": "Helsinki",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "image_url": "https://images.unsplash.com/photo-1740321781993-3c68c47552b3",
+      "image_alt": "Helsinki waterfront and harbor view",
+      "coordinates": {
+        "lat": 60.1699,
+        "lon": 24.9384
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "suomenlinna",
+          "name": "Suomenlinna Sea Fortress",
+          "city": "Helsinki",
+          "image_url": "https://commons.wikimedia.org/wiki/File:Suomenlinna_II_ferry.jpg",
+          "image_alt": "Suomenlinna sea fortress and ferry view",
+          "popular": true,
+          "popularity_score": 98,
+          "price_range": "budget",
+          "estimated_cost_eur": 8,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "history",
+            "nature",
+            "unesco",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 60.1454,
+            "lon": 24.9881
+          },
+          "summary": "UNESCO-listed sea fortress built across islands off Helsinki with coastal ramparts, museums, and harbor views.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "HSL Ferry from Market Square",
+              "type": "transport",
+              "duration_mins": 20,
+              "cost_eur": 3.2,
+              "image_url": "https://commons.wikimedia.org/wiki/File:Suomenlinna_II_ferry.jpg",
+              "image_alt": "Ferry Suomenlinna II operating between Market Square and Suomenlinna",
+              "notes": "Board public ferry from Kauppatori; budget-friendly and eco-friendly."
+            },
+            {
+              "title": "Suomenlinna Sea Fortress & Ramparts",
+              "type": "attraction",
+              "duration_mins": 150,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Historic stone ramparts and cannons",
+              "notes": "Explore cannons, coastal paths, and King's Gate."
+            },
+            {
+              "title": "Local Cafe / Casual Lunch",
+              "type": "food",
+              "duration_mins": 60,
+              "cost_eur": 15,
+              "image_url": null,
+              "image_alt": "Casual Nordic soup and bakery lunch",
+              "notes": "Grab soup or bakery items on the island."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Ferry + Walking",
+            "total_distance_km": 4.2,
+            "waypoints": [
+              {
+                "name": "Market Square Pier",
+                "lat": 60.1676,
+                "lon": 24.9547,
+                "image_url": null
+              },
+              {
+                "name": "Suomenlinna Center",
+                "lat": 60.1454,
+                "lon": 24.9881,
+                "image_url": null
+              },
+              {
+                "name": "King's Gate",
+                "lat": 60.1438,
+                "lon": 24.9946,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Fortress & Harbor Walk",
+            "image_url": "https://commons.wikimedia.org/wiki/File:Helsinki_harbour_2022.jpg",
+            "image_alt": "Helsinki harbour view from the sea",
+            "route_summary": "Ferry + Walking (4.2 km) via Market Square Pier, Suomenlinna Center, and King's Gate.",
+            "stops": [
+              {
+                "time": "09:30",
+                "title": "HSL Ferry from Market Square",
+                "type": "transport",
+                "cost_eur": 3.2,
+                "notes": "Board public ferry from Kauppatori."
+              },
+              {
+                "time": "10:00",
+                "title": "Suomenlinna Sea Fortress & Ramparts",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Explore coastal ramparts and historic sites."
+              }
+            ]
+          }
+        },
+        {
+          "id": "helsinki-cathedral-senate-square",
+          "name": "Helsinki Cathedral & Senate Square",
+          "city": "Helsinki",
+          "image_url": "https://commons.wikimedia.org/wiki/File:Helsinki_Senate_Square_and_Helsinki_Cathedral_in_May_2026.jpg",
+          "image_alt": "Helsinki Senate Square and Helsinki Cathedral",
+          "popular": true,
+          "popularity_score": 96,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "history",
+            "architecture",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 60.1704,
+            "lon": 24.9522
+          },
+          "summary": "Iconic white Lutheran cathedral overlooking Senate Square in the historic center of Helsinki.",
+          "best_time_of_day": "Morning",
+          "seed_stops": [
+            {
+              "title": "Senate Square & Cathedral Steps",
+              "type": "attraction",
+              "duration_mins": 90,
+              "cost_eur": 0,
+              "image_url": "https://commons.wikimedia.org/wiki/File:Senate_Square_and_Lutheran_Cathedral_in_Helsinki.jpg",
+              "image_alt": "Senate Square and Lutheran Cathedral in Helsinki",
+              "notes": "Check visitor hours and any event closures on the square."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Tram + Walking",
+            "total_distance_km": 1.6,
+            "waypoints": [
+              {
+                "name": "Senate Square",
+                "lat": 60.1704,
+                "lon": 24.9522,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Historic Center Landmarks",
+            "image_url": "https://commons.wikimedia.org/wiki/File:Senate_Square_and_Lutheran_Cathedral_in_Helsinki.jpg",
+            "image_alt": "Senate Square and Lutheran Cathedral in Helsinki",
+            "route_summary": "Tram + Walking (1.6 km) around Senate Square.",
+            "stops": [
+              {
+                "time": "09:30",
+                "title": "Helsinki Cathedral & Senate Square",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Visit central Helsinki's signature square."
+              }
+            ]
+          }
+        },
+        {
+          "id": "temppeliaukio-church",
+          "name": "Temppeliaukio Church (Rock Church)",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Temppeliaukio Church carved into bedrock in Helsinki",
+          "popular": true,
+          "popularity_score": 94,
+          "price_range": "budget",
+          "estimated_cost_eur": 8,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "architecture",
+            "culture",
+            "indoor"
+          ],
+          "coordinates": {
+            "lat": 60.1733,
+            "lon": 24.9252
+          },
+          "summary": "Church excavated directly into solid bedrock with a copper dome and natural daylight in central Helsinki.",
+          "best_time_of_day": "Late Morning",
+          "seed_stops": [
+            {
+              "title": "Temppeliaukio Rock Church Visit",
+              "type": "attraction",
+              "duration_mins": 60,
+              "cost_eur": 8,
+              "image_url": null,
+              "image_alt": "Interior stone walls of Temppeliaukio Church",
+              "notes": "Check open hours as concerts or services can affect tourist entry."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Tram + Walking",
+            "total_distance_km": 2.2,
+            "waypoints": [
+              {
+                "name": "Temppeliaukio Church",
+                "lat": 60.1733,
+                "lon": 24.9252,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Architectural Rock Church Stop",
+            "image_url": null,
+            "image_alt": "Temppeliaukio Church",
+            "route_summary": "Tram + Walking (2.2 km) to Temppeliaukio Church.",
+            "stops": [
+              {
+                "time": "11:00",
+                "title": "Temppeliaukio Church (Rock Church)",
+                "type": "attraction",
+                "cost_eur": 8,
+                "notes": "Great indoor architectural stop."
+              }
+            ]
+          }
+        },
+        {
+          "id": "uspenski-cathedral",
+          "name": "Uspenski Cathedral",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Uspenski Cathedral on Katajanokka hill in Helsinki",
+          "popular": true,
+          "popularity_score": 93,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "architecture",
+            "history",
+            "culture",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 60.1685,
+            "lon": 24.9606
+          },
+          "summary": "Prominent Orthodox cathedral perched on a rocky hill on the Katajanokka peninsula near central Helsinki.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Katajanokka Hill & Uspenski Cathedral",
+              "type": "attraction",
+              "duration_mins": 75,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Uspenski Cathedral brick facade and domes",
+              "notes": "Easy walk from Market Square across the harbor area."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.5,
+            "waypoints": [
+              {
+                "name": "Market Square",
+                "lat": 60.1676,
+                "lon": 24.9547,
+                "image_url": null
+              },
+              {
+                "name": "Uspenski Cathedral",
+                "lat": 60.1685,
+                "lon": 24.9606,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Katajanokka & Cathedral Walk",
+            "image_url": null,
+            "image_alt": "Uspenski Cathedral",
+            "route_summary": "Walking (1.5 km) from Market Square to Uspenski Cathedral.",
+            "stops": [
+              {
+                "time": "10:30",
+                "title": "Uspenski Cathedral",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Visit Katajanokka's landmark cathedral."
+              }
+            ]
+          }
+        },
+        {
+          "id": "ateneum-art-museum",
+          "name": "Ateneum Art Museum",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Ateneum Art Museum opposite Helsinki Central Station",
+          "popular": true,
+          "popularity_score": 91,
+          "price_range": "mid",
+          "estimated_cost_eur": 20,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "museum",
+            "art",
+            "culture",
+            "indoor"
+          ],
+          "coordinates": {
+            "lat": 60.17,
+            "lon": 24.9442
+          },
+          "summary": "Major Finnish art museum located by Railway Square showcasing classic and national art collections.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Ateneum Galleries",
+              "type": "attraction",
+              "duration_mins": 120,
+              "cost_eur": 20,
+              "image_url": null,
+              "image_alt": "Art exhibition hall at Ateneum",
+              "notes": "Ideal indoor cultural stop in central Helsinki."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 0.6,
+            "waypoints": [
+              {
+                "name": "Helsinki Central Station",
+                "lat": 60.1719,
+                "lon": 24.9414,
+                "image_url": null
+              },
+              {
+                "name": "Ateneum Art Museum",
+                "lat": 60.17,
+                "lon": 24.9442,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Finnish Art & Central Culture",
+            "image_url": null,
+            "image_alt": "Ateneum Art Museum",
+            "route_summary": "Walking (0.6 km) from Central Station to Ateneum.",
+            "stops": [
+              {
+                "time": "13:30",
+                "title": "Ateneum Art Museum",
+                "type": "attraction",
+                "cost_eur": 20,
+                "notes": "Explore national art collections indoors."
+              }
+            ]
+          }
+        },
+        {
+          "id": "sibelius-park-monument",
+          "name": "Sibelius Park & Monument",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Sibelius Monument steel pipes in Sibelius Park Helsinki",
+          "popular": true,
+          "popularity_score": 90,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "nature",
+            "culture",
+            "walking",
+            "park"
+          ],
+          "coordinates": {
+            "lat": 60.1821,
+            "lon": 24.9136
+          },
+          "summary": "Coastal park in Töölö home to the steel-pipe monument honoring composer Jean Sibelius.",
+          "best_time_of_day": "Late Afternoon",
+          "seed_stops": [
+            {
+              "title": "Sibelius Monument & Shoreline Path",
+              "type": "nature",
+              "duration_mins": 75,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Sibelius Monument sculpture in park",
+              "notes": "Pair with a walk along the nearby Töölö seaside."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Tram + Walking",
+            "total_distance_km": 3.4,
+            "waypoints": [
+              {
+                "name": "Sibelius Park",
+                "lat": 60.1821,
+                "lon": 24.9136,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Töölö Coastal Park & Monument",
+            "image_url": null,
+            "image_alt": "Sibelius Park",
+            "route_summary": "Tram + Walking (3.4 km) to Sibelius Park.",
+            "stops": [
+              {
+                "time": "15:30",
+                "title": "Sibelius Park & Monument",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Free outdoor monument and seaside park."
+              }
+            ]
+          }
+        },
+        {
+          "id": "korkeasaari-zoo",
+          "name": "Korkeasaari Zoo",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Korkeasaari island zoo in Helsinki",
+          "popular": true,
+          "popularity_score": 88,
+          "price_range": "mid",
+          "estimated_cost_eur": 22,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "nature",
+            "family",
+            "animals",
+            "island"
+          ],
+          "coordinates": {
+            "lat": 60.1753,
+            "lon": 24.9839
+          },
+          "summary": "Island zoological garden near central Helsinki accessible by ferry/water bus or bridge with wildlife conservation exhibits.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Korkeasaari Island & Animal Trails",
+              "type": "attraction",
+              "duration_mins": 180,
+              "cost_eur": 22,
+              "image_url": null,
+              "image_alt": "Wildlife habitats on Korkeasaari island",
+              "notes": "Check seasonal ferry/water bus schedules."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Ferry / Bus + Walking",
+            "total_distance_km": 4.5,
+            "waypoints": [
+              {
+                "name": "Korkeasaari Zoo",
+                "lat": 60.1753,
+                "lon": 24.9839,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Island Wildlife & Conservation",
+            "image_url": null,
+            "image_alt": "Korkeasaari Zoo",
+            "route_summary": "Ferry / Bus + Walking (4.5 km) to Korkeasaari Zoo.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Korkeasaari Zoo",
+                "type": "attraction",
+                "cost_eur": 22,
+                "notes": "Family-friendly island zoo visit."
+              }
+            ]
+          }
+        },
+        {
+          "id": "linnanmaki-amusement-park",
+          "name": "Linnanmäki Amusement Park",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Linnanmäki amusement park rides in Helsinki",
+          "popular": true,
+          "popularity_score": 89,
+          "price_range": "budget",
+          "estimated_cost_eur": 10,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "family",
+            "theme",
+            "entertainment"
+          ],
+          "coordinates": {
+            "lat": 60.1886,
+            "lon": 24.9394
+          },
+          "summary": "Popular Helsinki amusement park operating seasonally with free park admission and ride wristbands/tickets.",
+          "best_time_of_day": "Afternoon to Evening",
+          "seed_stops": [
+            {
+              "title": "Linnanmäki Park & Attractions",
+              "type": "attraction",
+              "duration_mins": 180,
+              "cost_eur": 10,
+              "image_url": null,
+              "image_alt": "Amusement rides at Linnanmäki",
+              "notes": "Park entry is free; rides/wristbands cost extra during open seasons."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Tram + Walking",
+            "total_distance_km": 3.1,
+            "waypoints": [
+              {
+                "name": "Linnanmäki Amusement Park",
+                "lat": 60.1886,
+                "lon": 24.9394,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Helsinki Amusement Park Afternoon",
+            "image_url": null,
+            "image_alt": "Linnanmäki Amusement Park",
+            "route_summary": "Tram + Walking (3.1 km) to Linnanmäki.",
+            "stops": [
+              {
+                "time": "13:00",
+                "title": "Linnanmäki Amusement Park",
+                "type": "attraction",
+                "cost_eur": 10,
+                "notes": "Check seasonal operating dates."
+              }
+            ]
+          }
+        },
+        {
+          "id": "seurasaari-open-air-museum",
+          "name": "Seurasaari Open-Air Museum",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Historic timber buildings in Seurasaari forest Helsinki",
+          "popular": true,
+          "popularity_score": 87,
+          "price_range": "budget",
+          "estimated_cost_eur": 10,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "museum",
+            "history",
+            "nature",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 60.1842,
+            "lon": 24.8856
+          },
+          "summary": "Island open-air museum in western Helsinki displaying traditional Finnish timber buildings amid woodland paths.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Seurasaari Bridge & Woodland Trails",
+              "type": "nature",
+              "duration_mins": 150,
+              "cost_eur": 10,
+              "image_url": null,
+              "image_alt": "Historic wooden cottages on Seurasaari",
+              "notes": "Check museum building opening hours by season."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Bus + Walking",
+            "total_distance_km": 4.0,
+            "waypoints": [
+              {
+                "name": "Seurasaari Open-Air Museum",
+                "lat": 60.1842,
+                "lon": 24.8856,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Heritage Timber & Forest Island",
+            "image_url": null,
+            "image_alt": "Seurasaari Open-Air Museum",
+            "route_summary": "Bus + Walking (4.0 km) to Seurasaari.",
+            "stops": [
+              {
+                "time": "10:30",
+                "title": "Seurasaari Open-Air Museum",
+                "type": "museum",
+                "cost_eur": 10,
+                "notes": "Explore traditional wooden architecture and trails."
+              }
+            ]
+          }
+        },
+        {
+          "id": "oodi-central-library",
+          "name": "Helsinki Central Library Oodi",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Helsinki Central Library Oodi modern architecture",
+          "popular": true,
+          "popularity_score": 92,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "architecture",
+            "culture",
+            "indoor",
+            "family"
+          ],
+          "coordinates": {
+            "lat": 60.1739,
+            "lon": 24.9381
+          },
+          "summary": "Modern public library and civic hub opposite Parliament House featuring reading terraces, workspaces, and public spaces.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Oodi Upper Floor & Reading Terrace",
+              "type": "attraction",
+              "duration_mins": 120,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Interior timber design and terrace at Oodi",
+              "notes": "Great indoor stop with views toward Kansalaistori and Parliament."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.4,
+            "waypoints": [
+              {
+                "name": "Helsinki Central Station",
+                "lat": 60.1719,
+                "lon": 24.9414,
+                "image_url": null
+              },
+              {
+                "name": "Oodi Central Library",
+                "lat": 60.1739,
+                "lon": 24.9381,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Civic Architecture & Central Walk",
+            "image_url": "https://commons.wikimedia.org/wiki/File:Helsinki_Senate_Square_and_Helsinki_Cathedral_in_May_2026.jpg",
+            "image_alt": "Central Helsinki landmark view",
+            "route_summary": "Walking (1.4 km) from Helsinki Central Station to Oodi.",
+            "stops": [
+              {
+                "time": "13:00",
+                "title": "Oodi Central Library",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Free entry and public spaces."
+              }
+            ]
+          }
+        },
+        {
+          "id": "kaivopuisto-park",
+          "name": "Kaivopuisto Park",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Kaivopuisto coastal park in southern Helsinki",
+          "popular": true,
+          "popularity_score": 86,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "nature",
+            "walking",
+            "coastal",
+            "park"
+          ],
+          "coordinates": {
+            "lat": 60.1567,
+            "lon": 24.9564
+          },
+          "summary": "Historic seaside park in southern Helsinki with grassy lawns, rocky outcrops, and harbor views.",
+          "best_time_of_day": "Late Afternoon",
+          "seed_stops": [
+            {
+              "title": "Kaivopuisto Coastal Promenade",
+              "type": "nature",
+              "duration_mins": 90,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Seafront path in Kaivopuisto",
+              "notes": "Pleasant seaside walk on clear days."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Tram + Walking",
+            "total_distance_km": 2.6,
+            "waypoints": [
+              {
+                "name": "Kaivopuisto Park",
+                "lat": 60.1567,
+                "lon": 24.9564,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Southern Coastline Stroll",
+            "image_url": null,
+            "image_alt": "Kaivopuisto Park",
+            "route_summary": "Tram + Walking (2.6 km) through Kaivopuisto.",
+            "stops": [
+              {
+                "time": "15:00",
+                "title": "Kaivopuisto Park",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Relax in Helsinki's historic seaside park."
+              }
+            ]
+          }
+        },
+        {
+          "id": "vallisaari-island",
+          "name": "Vallisaari Island",
+          "city": "Helsinki",
+          "image_url": null,
+          "image_alt": "Vallisaari island coastal nature and trails",
+          "popular": false,
+          "popularity_score": 82,
+          "price_range": "budget",
+          "estimated_cost_eur": 10,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "nature",
+            "history",
+            "hiking"
+          ],
+          "coordinates": {
+            "lat": 60.1456,
+            "lon": 25.0169
+          },
+          "summary": "Former military island in the Helsinki archipelago known for diverse nature trails, meadows, and coastal scenery.",
+          "best_time_of_day": "Late Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Archipelago Ferry & Nature Trail Loop",
+              "type": "nature",
+              "duration_mins": 175,
+              "cost_eur": 10,
+              "image_url": null,
+              "image_alt": "Forest and coastal trail on Vallisaari",
+              "notes": "Check seasonal ferry timetables before traveling."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Ferry + Walking",
+            "total_distance_km": 3.8,
+            "waypoints": [
+              {
+                "name": "Vallisaari Pier",
+                "lat": 60.1456,
+                "lon": 25.0169,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Archipelago Nature Trail",
+            "image_url": "https://commons.wikimedia.org/wiki/File:Helsinki_harbour_2022.jpg",
+            "image_alt": "Helsinki archipelago waters",
+            "route_summary": "Ferry + Walking (3.8 km) around Vallisaari trails.",
+            "stops": [
+              {
+                "time": "10:30",
+                "title": "Vallisaari Island Trails",
+                "type": "attraction",
+                "cost_eur": 10,
+                "notes": "Enjoy island nature and sea views."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rovaniemi",
+      "city": "Rovaniemi",
+      "region": "Lapland",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Rovaniemi winter and Arctic landscape in Lapland",
+      "coordinates": {
+        "lat": 66.5039,
+        "lon": 25.7294
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "santa-claus-village-arctic-circle",
+          "name": "Santa Claus Village & Arctic Circle",
+          "city": "Rovaniemi",
+          "image_url": null,
+          "image_alt": "Santa Claus Village and Arctic Circle line in Rovaniemi",
+          "popular": true,
+          "popularity_score": 98,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "family",
+            "winter",
+            "culture",
+            "landmark"
+          ],
+          "coordinates": {
+            "lat": 66.5436,
+            "lon": 25.8473
+          },
+          "summary": "Arctic Circle destination north of Rovaniemi town center featuring the marked Arctic Circle line, post office, and seasonal activities.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Bus North to Santa Claus Village",
+              "type": "transport",
+              "duration_mins": 25,
+              "cost_eur": 5,
+              "image_url": null,
+              "image_alt": "Route north from Rovaniemi to Arctic Circle",
+              "notes": "Check local bus schedule from Rovaniemi center."
+            },
+            {
+              "title": "Arctic Circle Line & Village Exploration",
+              "type": "attraction",
+              "duration_mins": 150,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Arctic Circle marker in Rovaniemi",
+              "notes": "Village area entry is free; optional activities/meals cost extra."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Bus + Walking",
+            "total_distance_km": 8.5,
+            "waypoints": [
+              {
+                "name": "Rovaniemi Center",
+                "lat": 66.5039,
+                "lon": 25.7294,
+                "image_url": null
+              },
+              {
+                "name": "Santa Claus Village",
+                "lat": 66.5436,
+                "lon": 25.8473,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Arctic Circle Landmark Day",
+            "image_url": null,
+            "image_alt": "Santa Claus Village Rovaniemi",
+            "route_summary": "Bus + Walking (8.5 km) from Rovaniemi center to Santa Claus Village.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Santa Claus Village & Arctic Circle",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Cross the Arctic Circle and explore the village."
+              }
+            ]
+          }
+        },
+        {
+          "id": "arktikum-science-centre-museum",
+          "name": "Arktikum Museum & Science Centre",
+          "city": "Rovaniemi",
+          "image_url": null,
+          "image_alt": "Arktikum glass roof and museum in Rovaniemi",
+          "popular": true,
+          "popularity_score": 94,
+          "price_range": "mid",
+          "estimated_cost_eur": 18,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "museum",
+            "science",
+            "history",
+            "indoor"
+          ],
+          "coordinates": {
+            "lat": 66.5078,
+            "lon": 25.7336
+          },
+          "summary": "Museum and Arctic science center in Rovaniemi presenting Lapland history, indigenous culture, and northern nature.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Arktikum Exhibitions & Glass Corridor",
+              "type": "attraction",
+              "duration_mins": 135,
+              "cost_eur": 18,
+              "image_url": null,
+              "image_alt": "Arktikum exhibition galleries",
+              "notes": "Great indoor cultural and educational stop in Rovaniemi."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.3,
+            "waypoints": [
+              {
+                "name": "Arktikum Museum & Science Centre",
+                "lat": 66.5078,
+                "lon": 25.7336,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Arctic History & Science",
+            "image_url": null,
+            "image_alt": "Arktikum Rovaniemi",
+            "route_summary": "Walking (1.3 km) to Arktikum along the riverfront.",
+            "stops": [
+              {
+                "time": "13:00",
+                "title": "Arktikum Museum & Science Centre",
+                "type": "museum",
+                "cost_eur": 18,
+                "notes": "Explore Arctic exhibits indoors."
+              }
+            ]
+          }
+        },
+        {
+          "id": "ranua-wildlife-park",
+          "name": "Ranua Wildlife Park",
+          "city": "Rovaniemi",
+          "image_url": null,
+          "image_alt": "Arctic wildlife park forest trails near Ranua",
+          "popular": true,
+          "popularity_score": 90,
+          "price_range": "mid",
+          "estimated_cost_eur": 24,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "nature",
+            "animals",
+            "family",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 65.9486,
+            "lon": 26.4472
+          },
+          "summary": "Arctic and northern wildlife park set in boreal forest, offering outdoor boardwalk trails to observe northern species.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Forest Boardwalk Wildlife Trail",
+              "type": "nature",
+              "duration_mins": 150,
+              "cost_eur": 24,
+              "image_url": null,
+              "image_alt": "Boardwalk path through wildlife park forest",
+              "notes": "Dress for outdoor walking and seasonal Lapland weather."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Car / Excursion Bus",
+            "total_distance_km": 80.0,
+            "waypoints": [
+              {
+                "name": "Ranua Wildlife Park",
+                "lat": 65.9486,
+                "lon": 26.4472,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Northern Wildlife Excursion",
+            "image_url": null,
+            "image_alt": "Ranua Wildlife Park",
+            "route_summary": "Car / Excursion Bus (80.0 km) to Ranua Wildlife Park.",
+            "stops": [
+              {
+                "time": "09:30",
+                "title": "Ranua Wildlife Park",
+                "type": "nature",
+                "cost_eur": 24,
+                "notes": "Walk the forest wildlife trails."
+              }
+            ]
+          }
+        },
+        {
+          "id": "santapark-rovaniemi",
+          "name": "SantaPark",
+          "city": "Rovaniemi",
+          "image_url": null,
+          "image_alt": "SantaPark indoor attraction in Rovaniemi",
+          "popular": true,
+          "popularity_score": 87,
+          "price_range": "high",
+          "estimated_cost_eur": 45,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "family",
+            "indoor",
+            "theme"
+          ],
+          "coordinates": {
+            "lat": 66.5396,
+            "lon": 25.8473
+          },
+          "summary": "Indoor Christmas-themed attraction near Rovaniemi featuring underground activities, seasonal shows, and family exhibits.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "SantaPark Activities & Shows",
+              "type": "attraction",
+              "duration_mins": 180,
+              "cost_eur": 45,
+              "image_url": null,
+              "image_alt": "Indoor themed attraction hall",
+              "notes": "Check seasonal operating dates before planning."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Bus / Taxi",
+            "total_distance_km": 8.5,
+            "waypoints": [
+              {
+                "name": "SantaPark",
+                "lat": 66.5396,
+                "lon": 25.8473,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Arctic Circle Indoor Fun",
+            "image_url": null,
+            "image_alt": "SantaPark Rovaniemi",
+            "route_summary": "Bus / Taxi (8.5 km) to SantaPark.",
+            "stops": [
+              {
+                "time": "13:00",
+                "title": "SantaPark",
+                "type": "attraction",
+                "cost_eur": 45,
+                "notes": "Verify seasonal schedule prior to visit."
+              }
+            ]
+          }
+        },
+        {
+          "id": "arctic-snowhotel",
+          "name": "Arctic SnowHotel",
+          "city": "Rovaniemi",
+          "image_url": null,
+          "image_alt": "Arctic SnowHotel snow and ice structures in Lapland",
+          "popular": true,
+          "popularity_score": 86,
+          "price_range": "mid",
+          "estimated_cost_eur": 25,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "winter",
+            "architecture",
+            "unique"
+          ],
+          "coordinates": {
+            "lat": 66.7669,
+            "lon": 25.5656
+          },
+          "summary": "Seasonal snow and ice hotel and winter venue in Lapland featuring sculpted snow rooms and ice dining spaces.",
+          "best_time_of_day": "Late Afternoon to Evening",
+          "seed_stops": [
+            {
+              "title": "Arctic SnowHotel Guided Visit",
+              "type": "attraction",
+              "duration_mins": 120,
+              "cost_eur": 25,
+              "image_url": null,
+              "image_alt": "Snow and ice carvings at Arctic SnowHotel",
+              "notes": "Open seasonally in winter; dress warmly for sub-zero temperatures."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Car / Guided Transfer",
+            "total_distance_km": 32.0,
+            "waypoints": [
+              {
+                "name": "Arctic SnowHotel",
+                "lat": 66.7669,
+                "lon": 25.5656,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Lapland Snow & Ice Experience",
+            "image_url": null,
+            "image_alt": "Arctic SnowHotel",
+            "route_summary": "Guided Transfer (32.0 km) from Rovaniemi to Arctic SnowHotel.",
+            "stops": [
+              {
+                "time": "15:00",
+                "title": "Arctic SnowHotel",
+                "type": "attraction",
+                "cost_eur": 25,
+                "notes": "Seasonal winter attraction; check dates."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "turku",
+      "city": "Turku",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Turku along the Aura River",
+      "coordinates": {
+        "lat": 60.4518,
+        "lon": 22.2666
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "turku-castle",
+          "name": "Turku Castle",
+          "city": "Turku",
+          "image_url": null,
+          "image_alt": "Turku Castle medieval fortress",
+          "popular": true,
+          "popularity_score": 94,
+          "price_range": "mid",
+          "estimated_cost_eur": 16,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "history",
+            "museum",
+            "culture"
+          ],
+          "coordinates": {
+            "lat": 60.4348,
+            "lon": 22.2294
+          },
+          "summary": "Historic medieval castle near the mouth of the Aura River housing museum exhibitions on Finland's past.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Aura River Walk or Bus to Castle",
+              "type": "transport",
+              "duration_mins": 35,
+              "cost_eur": 3.0,
+              "image_url": null,
+              "image_alt": "Aura River promenade in Turku",
+              "notes": "Walk along the river or take a local bus."
+            },
+            {
+              "title": "Turku Castle Museum Tour",
+              "type": "attraction",
+              "duration_mins": 120,
+              "cost_eur": 16,
+              "image_url": null,
+              "image_alt": "Historic halls inside Turku Castle",
+              "notes": "Explore medieval and Renaissance halls."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Bus + Walking",
+            "total_distance_km": 4.0,
+            "waypoints": [
+              {
+                "name": "Turku Market Square",
+                "lat": 60.4515,
+                "lon": 22.2669,
+                "image_url": null
+              },
+              {
+                "name": "Turku Castle",
+                "lat": 60.4348,
+                "lon": 22.2294,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Medieval Heritage & Riverfront",
+            "image_url": null,
+            "image_alt": "Turku Castle historic site",
+            "route_summary": "Bus + Walking (4.0 km) from Turku center to Turku Castle.",
+            "stops": [
+              {
+                "time": "13:00",
+                "title": "Turku Castle",
+                "type": "attraction",
+                "cost_eur": 16,
+                "notes": "Visit the castle museum and grounds."
+              }
+            ]
+          }
+        },
+        {
+          "id": "luostarinmaki-handicrafts-museum",
+          "name": "Luostarinmäki Handicrafts Museum",
+          "city": "Turku",
+          "image_url": null,
+          "image_alt": "Historic wooden houses at Luostarinmäki in Turku",
+          "popular": true,
+          "popularity_score": 89,
+          "price_range": "budget",
+          "estimated_cost_eur": 12,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "history",
+            "museum",
+            "culture",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 60.4437,
+            "lon": 22.2756
+          },
+          "summary": "Open-air museum of historic wooden buildings in Turku that survived the 1827 Great Fire, showcasing traditional crafts.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Luostarinmäki Quarter & Workshops",
+              "type": "attraction",
+              "duration_mins": 120,
+              "cost_eur": 12,
+              "image_url": null,
+              "image_alt": "Traditional wooden courtyard and craft workshops",
+              "notes": "Check seasonal open hours before visiting."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.8,
+            "waypoints": [
+              {
+                "name": "Luostarinmäki Handicrafts Museum",
+                "lat": 60.4437,
+                "lon": 22.2756,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Old Wooden Turku",
+            "image_url": null,
+            "image_alt": "Luostarinmäki wooden buildings",
+            "route_summary": "Walking (1.8 km) around Luostarinmäki.",
+            "stops": [
+              {
+                "time": "10:30",
+                "title": "Luostarinmäki Handicrafts Museum",
+                "type": "attraction",
+                "cost_eur": 12,
+                "notes": "Explore historic wooden houses."
+              }
+            ]
+          }
+        },
+        {
+          "id": "aboa-vetus-ars-nova",
+          "name": "Aboa Vetus Ars Nova",
+          "city": "Turku",
+          "image_url": null,
+          "image_alt": "Aboa Vetus Ars Nova museum by the Aura River",
+          "popular": false,
+          "popularity_score": 84,
+          "price_range": "mid",
+          "estimated_cost_eur": 15,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "museum",
+            "history",
+            "culture",
+            "indoor"
+          ],
+          "coordinates": {
+            "lat": 60.4488,
+            "lon": 22.2775
+          },
+          "summary": "Combined archaeology and contemporary art museum located along the Aura River in Turku.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Archaeological & Contemporary Galleries",
+              "type": "attraction",
+              "duration_mins": 120,
+              "cost_eur": 15,
+              "image_url": null,
+              "image_alt": "Museum exhibition space in Turku",
+              "notes": "Great indoor option on rainy or chilly days."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.2,
+            "waypoints": [
+              {
+                "name": "Aboa Vetus Ars Nova",
+                "lat": 60.4488,
+                "lon": 22.2775,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Riverfront Archaeology & Art",
+            "image_url": null,
+            "image_alt": "Aboa Vetus Ars Nova museum",
+            "route_summary": "Walking (1.2 km) along the Aura River.",
+            "stops": [
+              {
+                "time": "14:00",
+                "title": "Aboa Vetus Ars Nova",
+                "type": "attraction",
+                "cost_eur": 15,
+                "notes": "Tour archaeology and contemporary art exhibits."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tampere",
+      "city": "Tampere",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Tampere rapids and lake landscape",
+      "coordinates": {
+        "lat": 61.4978,
+        "lon": 23.761
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "pyynikki-observation-tower",
+          "name": "Pyynikki Observation Tower",
+          "city": "Tampere",
+          "image_url": null,
+          "image_alt": "Pyynikki Observation Tower and pine ridge in Tampere",
+          "popular": true,
+          "popularity_score": 93,
+          "price_range": "budget",
+          "estimated_cost_eur": 5,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "nature",
+            "walking",
+            "views"
+          ],
+          "coordinates": {
+            "lat": 61.4926,
+            "lon": 23.7351
+          },
+          "summary": "Granite observation tower atop the Pyynikki ridge surrounded by esker forest trails and lake views.",
+          "best_time_of_day": "Morning or Late Afternoon",
+          "seed_stops": [
+            {
+              "title": "Pyynikki Ridge Nature Walk",
+              "type": "nature",
+              "duration_mins": 90,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Forest path on Pyynikki ridge",
+              "notes": "Stroll the pine ridge overlooking Pyhäjärvi and Näsijärvi."
+            },
+            {
+              "title": "Pyynikki Observation Tower & Cafe",
+              "type": "attraction",
+              "duration_mins": 60,
+              "cost_eur": 5,
+              "image_url": null,
+              "image_alt": "Pyynikki tower view over Tampere",
+              "notes": "Enjoy panoramic views from the tower."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Bus + Walking",
+            "total_distance_km": 3.2,
+            "waypoints": [
+              {
+                "name": "Tampere Central Square",
+                "lat": 61.4981,
+                "lon": 23.7608,
+                "image_url": null
+              },
+              {
+                "name": "Pyynikki Observation Tower",
+                "lat": 61.4926,
+                "lon": 23.7351,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Ridge Trails & Panoramic Views",
+            "image_url": null,
+            "image_alt": "Pyynikki Observation Tower",
+            "route_summary": "Bus + Walking (3.2 km) to Pyynikki ridge and tower.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Pyynikki Observation Tower",
+                "type": "attraction",
+                "cost_eur": 5,
+                "notes": "Climb the tower and walk the ridge trails."
+              }
+            ]
+          }
+        },
+        {
+          "id": "nasinneula-observation-tower",
+          "name": "Näsinneula Observation Tower",
+          "city": "Tampere",
+          "image_url": null,
+          "image_alt": "Näsinneula tower in Tampere",
+          "popular": true,
+          "popularity_score": 91,
+          "price_range": "mid",
+          "estimated_cost_eur": 18,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "views",
+            "family",
+            "attraction"
+          ],
+          "coordinates": {
+            "lat": 61.5067,
+            "lon": 23.7434
+          },
+          "summary": "Tall observation tower on the Näsinneula peninsula offering wide views over Tampere and Lake Näsijärvi.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Näsinneula Viewing Platform",
+              "type": "attraction",
+              "duration_mins": 75,
+              "cost_eur": 18,
+              "image_url": null,
+              "image_alt": "View from Näsinneula tower",
+              "notes": "Check opening hours and seasonal ticket prices."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Bus + Walking",
+            "total_distance_km": 2.8,
+            "waypoints": [
+              {
+                "name": "Näsinneula Observation Tower",
+                "lat": 61.5067,
+                "lon": 23.7434,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Lakeside Skyline & Tower",
+            "image_url": null,
+            "image_alt": "Näsinneula tower",
+            "route_summary": "Bus + Walking (2.8 km) to Näsinneula.",
+            "stops": [
+              {
+                "time": "14:30",
+                "title": "Näsinneula Observation Tower",
+                "type": "attraction",
+                "cost_eur": 18,
+                "notes": "Take in views across Lake Näsijärvi."
+              }
+            ]
+          }
+        },
+        {
+          "id": "rajaportti-sauna",
+          "name": "Rajaportti Sauna",
+          "city": "Tampere",
+          "image_url": null,
+          "image_alt": "Historic public sauna building in Tampere",
+          "popular": true,
+          "popularity_score": 89,
+          "price_range": "budget",
+          "estimated_cost_eur": 14,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "culture",
+            "sauna",
+            "relaxation",
+            "indoor"
+          ],
+          "coordinates": {
+            "lat": 61.4953,
+            "lon": 23.7322
+          },
+          "summary": "Historic public sauna in Tampere's Pispala district offering an authentic traditional Finnish sauna experience.",
+          "best_time_of_day": "Evening",
+          "seed_stops": [
+            {
+              "title": "Pispala Neighborhood Walk",
+              "type": "walking",
+              "duration_mins": 45,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Pispala hill streets in Tampere",
+              "notes": "Walk up Pispala ridge before your sauna session."
+            },
+            {
+              "title": "Rajaportti Sauna Session",
+              "type": "culture",
+              "duration_mins": 120,
+              "cost_eur": 14,
+              "image_url": null,
+              "image_alt": "Traditional sauna interior",
+              "notes": "Bring swimwear, towel, and check public session hours."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Bus + Walking",
+            "total_distance_km": 3.5,
+            "waypoints": [
+              {
+                "name": "Rajaportti Sauna",
+                "lat": 61.4953,
+                "lon": 23.7322,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Pispala & Traditional Sauna",
+            "image_url": null,
+            "image_alt": "Rajaportti Sauna",
+            "route_summary": "Bus + Walking (3.5 km) to Pispala and Rajaportti Sauna.",
+            "stops": [
+              {
+                "time": "17:00",
+                "title": "Rajaportti Sauna",
+                "type": "culture",
+                "cost_eur": 14,
+                "notes": "Experience a classic public sauna in Tampere."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "porvoo",
+      "city": "Porvoo",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Porvoo Old Town and Porvoo Cathedral",
+      "coordinates": {
+        "lat": 60.3923,
+        "lon": 25.6651
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "porvoo-old-town",
+          "name": "Porvoo Old Town",
+          "city": "Porvoo",
+          "image_url": null,
+          "image_alt": "Historic wooden buildings and riverbanks in Porvoo Old Town",
+          "popular": true,
+          "popularity_score": 95,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "history",
+            "walking",
+            "culture",
+            "architecture"
+          ],
+          "coordinates": {
+            "lat": 60.3958,
+            "lon": 25.6626
+          },
+          "summary": "Historic wooden town along the Porvoonjoki river known for cobbled alleys, heritage timber houses, and cafes.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Old Town Cobblestone Streets & Riverfront",
+              "type": "attraction",
+              "duration_mins": 150,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Historic wooden houses in Porvoo",
+              "notes": "Walk the cobbled streets and explore independent shops and cafes."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 2.4,
+            "waypoints": [
+              {
+                "name": "Porvoo Old Town",
+                "lat": 60.3958,
+                "lon": 25.6626,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Historic Wooden Porvoo",
+            "image_url": null,
+            "image_alt": "Porvoo Old Town",
+            "route_summary": "Walking (2.4 km) through Porvoo Old Town.",
+            "stops": [
+              {
+                "time": "10:30",
+                "title": "Porvoo Old Town",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Stroll historic alleys and riverside paths."
+              }
+            ]
+          }
+        },
+        {
+          "id": "porvoo-cathedral",
+          "name": "Porvoo Cathedral",
+          "city": "Porvoo",
+          "image_url": null,
+          "image_alt": "Porvoo Cathedral overlooking Old Porvoo",
+          "popular": true,
+          "popularity_score": 90,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "history",
+            "architecture",
+            "culture"
+          ],
+          "coordinates": {
+            "lat": 60.3979,
+            "lon": 25.6606
+          },
+          "summary": "Medieval stone cathedral rising above Porvoo Old Town with centuries of Finnish ecclesiastical and national history.",
+          "best_time_of_day": "Morning",
+          "seed_stops": [
+            {
+              "title": "Porvoo Cathedral & Church Hill",
+              "type": "attraction",
+              "duration_mins": 60,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Porvoo Cathedral exterior",
+              "notes": "Check visitor hours as services or events can temporarily limit access."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.2,
+            "waypoints": [
+              {
+                "name": "Porvoo Cathedral",
+                "lat": 60.3979,
+                "lon": 25.6606,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Cathedral Hill Heritage",
+            "image_url": null,
+            "image_alt": "Porvoo Cathedral",
+            "route_summary": "Walking (1.2 km) up to Porvoo Cathedral.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Porvoo Cathedral",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Visit the historic cathedral above Old Town."
+              }
+            ]
+          }
+        },
+        {
+          "id": "porvoo-museum-old-town-hall",
+          "name": "Porvoo Museum (Old Town Hall & Holm House)",
+          "city": "Porvoo",
+          "image_url": null,
+          "image_alt": "Porvoo Museum historic buildings in Old Town",
+          "popular": true,
+          "popularity_score": 86,
+          "price_range": "budget",
+          "estimated_cost_eur": 12,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "museum",
+            "history",
+            "art",
+            "indoor"
+          ],
+          "coordinates": {
+            "lat": 60.3959,
+            "lon": 25.6633
+          },
+          "summary": "Local museum in Porvoo Old Town spanning Finland's oldest Town Hall and 18th-century Holm House with art and history exhibitions.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Old Town Hall & Holm House Galleries",
+              "type": "attraction",
+              "duration_mins": 90,
+              "cost_eur": 12,
+              "image_url": null,
+              "image_alt": "Exhibition rooms in Porvoo Museum",
+              "notes": "Great indoor cultural stop in Old Porvoo."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.0,
+            "waypoints": [
+              {
+                "name": "Porvoo Museum",
+                "lat": 60.3959,
+                "lon": 25.6633,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Porvoo History & Art Museum",
+            "image_url": null,
+            "image_alt": "Porvoo Museum",
+            "route_summary": "Walking (1.0 km) in Porvoo Old Town.",
+            "stops": [
+              {
+                "time": "13:30",
+                "title": "Porvoo Museum (Old Town Hall & Holm House)",
+                "type": "museum",
+                "cost_eur": 12,
+                "notes": "Explore regional history and art."
+              }
+            ]
+          }
+        },
+        {
+          "id": "postimaki-outdoor-museum",
+          "name": "Postimäki Outdoor Museum",
+          "city": "Porvoo",
+          "image_url": null,
+          "image_alt": "Postimäki rural heritage buildings in Porvoo",
+          "popular": false,
+          "popularity_score": 81,
+          "price_range": "budget",
+          "estimated_cost_eur": 10,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "museum",
+            "history",
+            "nature",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 60.3831,
+            "lon": 25.6894
+          },
+          "summary": "Open-air museum near Porvoo preserving rural cottages, outbuildings, and traditional countryside heritage.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Postimäki Heritage Grounds",
+              "type": "attraction",
+              "duration_mins": 90,
+              "cost_eur": 10,
+              "image_url": null,
+              "image_alt": "Traditional rural cottages at Postimäki",
+              "notes": "Check seasonal open hours before visiting."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Car / Bus + Walking",
+            "total_distance_km": 4.5,
+            "waypoints": [
+              {
+                "name": "Postimäki Outdoor Museum",
+                "lat": 60.3831,
+                "lon": 25.6894,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Rural Heritage Walk",
+            "image_url": null,
+            "image_alt": "Postimäki Outdoor Museum",
+            "route_summary": "Car / Bus + Walking (4.5 km) to Postimäki.",
+            "stops": [
+              {
+                "time": "14:00",
+                "title": "Postimäki Outdoor Museum",
+                "type": "museum",
+                "cost_eur": 10,
+                "notes": "See historic countryside buildings."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "inari",
+      "city": "Inari",
+      "region": "Lapland",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Inari and Lake Inari in northern Lapland",
+      "coordinates": {
+        "lat": 68.9058,
+        "lon": 27.0281
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "lake-inari",
+          "name": "Lake Inari",
+          "city": "Inari",
+          "image_url": null,
+          "image_alt": "Lake Inari wilderness waters and islands in Lapland",
+          "popular": true,
+          "popularity_score": 95,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "nature",
+            "lake",
+            "arctic",
+            "views"
+          ],
+          "coordinates": {
+            "lat": 68.95,
+            "lon": 27.5
+          },
+          "summary": "Major wilderness lake in northern Lapland surrounded by pine forests and islands, known for seasonal boating, ice activities, and dark-sky views.",
+          "best_time_of_day": "Morning or Evening",
+          "seed_stops": [
+            {
+              "title": "Lake Inari Shoreline & Viewpoint",
+              "type": "nature",
+              "duration_mins": 120,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Shoreline of Lake Inari",
+              "notes": "Dress warmly and check seasonal ice or water conditions."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking / Local Transfer",
+            "total_distance_km": 3.0,
+            "waypoints": [
+              {
+                "name": "Inari Village Waterfront",
+                "lat": 68.9058,
+                "lon": 27.0281,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Arctic Wilderness Lake Exploration",
+            "image_url": null,
+            "image_alt": "Lake Inari",
+            "route_summary": "Walking / Local Transfer (3.0 km) around Inari shoreline.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Lake Inari",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Explore Lapland's vast northern lake."
+              }
+            ]
+          }
+        },
+        {
+          "id": "siida-sami-museum",
+          "name": "Siida (Sámi Museum & Nature Centre)",
+          "city": "Inari",
+          "image_url": null,
+          "image_alt": "Siida Sámi Museum and Nature Centre in Inari",
+          "popular": true,
+          "popularity_score": 93,
+          "price_range": "mid",
+          "estimated_cost_eur": 16,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "museum",
+            "culture",
+            "nature",
+            "indoor"
+          ],
+          "coordinates": {
+            "lat": 68.9069,
+            "lon": 27.0247
+          },
+          "summary": "Museum and nature center in Inari highlighting Sámi cultural heritage and northern Lapland ecosystems.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Siida Indoor & Outdoor Exhibits",
+              "type": "attraction",
+              "duration_mins": 135,
+              "cost_eur": 16,
+              "image_url": null,
+              "image_alt": "Exhibitions at Siida in Inari",
+              "notes": "Plan around 1.5 to 2 hours for exhibitions."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.5,
+            "waypoints": [
+              {
+                "name": "Siida (Sámi Museum & Nature Centre)",
+                "lat": 68.9069,
+                "lon": 27.0247,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Sámi Heritage & Arctic Nature",
+            "image_url": null,
+            "image_alt": "Siida Inari",
+            "route_summary": "Walking (1.5 km) to Siida in Inari.",
+            "stops": [
+              {
+                "time": "13:00",
+                "title": "Siida (Sámi Museum & Nature Centre)",
+                "type": "museum",
+                "cost_eur": 16,
+                "notes": "Learn about Sámi culture and northern nature."
+              }
+            ]
+          }
+        },
+        {
+          "id": "sajos-sami-cultural-centre",
+          "name": "Sajos Sámi Cultural Centre",
+          "city": "Inari",
+          "image_url": null,
+          "image_alt": "Sajos Sámi Cultural Centre along the river in Inari",
+          "popular": true,
+          "popularity_score": 87,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "culture",
+            "architecture",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 68.9044,
+            "lon": 27.0294
+          },
+          "summary": "Cultural and administrative center for Sámi culture in Inari featuring distinctive northern architecture along the river.",
+          "best_time_of_day": "Morning",
+          "seed_stops": [
+            {
+              "title": "Sajos Riverfront & Architecture",
+              "type": "attraction",
+              "duration_mins": 60,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Sajos building in Inari",
+              "notes": "Easy walk near central Inari village."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.1,
+            "waypoints": [
+              {
+                "name": "Sajos Sámi Cultural Centre",
+                "lat": 68.9044,
+                "lon": 27.0294,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Inari Cultural Hub Walk",
+            "image_url": null,
+            "image_alt": "Sajos Inari",
+            "route_summary": "Walking (1.1 km) to Sajos in Inari.",
+            "stops": [
+              {
+                "time": "10:30",
+                "title": "Sajos Sámi Cultural Centre",
+                "type": "culture",
+                "cost_eur": 0,
+                "notes": "Visit Inari's Sámi cultural center."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rauma",
+      "city": "Rauma",
+      "region": "Satakunta",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Old Rauma wooden houses and coastal town",
+      "coordinates": {
+        "lat": 61.1272,
+        "lon": 21.5113
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "old-rauma-unesco",
+          "name": "Old Rauma",
+          "city": "Rauma",
+          "image_url": null,
+          "image_alt": "Old Rauma historic wooden town streets",
+          "popular": true,
+          "popularity_score": 94,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "history",
+            "unesco",
+            "walking",
+            "architecture"
+          ],
+          "coordinates": {
+            "lat": 61.1278,
+            "lon": 21.5125
+          },
+          "summary": "UNESCO World Heritage wooden town in Rauma known for historic timber buildings, winding lanes, and local shops.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Old Rauma Historic Streets & Courtyards",
+              "type": "attraction",
+              "duration_mins": 150,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Wooden houses in Old Rauma",
+              "notes": "Walkable historic center with cafes and craft shops."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 2.2,
+            "waypoints": [
+              {
+                "name": "Old Rauma",
+                "lat": 61.1278,
+                "lon": 21.5125,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "UNESCO Wooden Town Walk",
+            "image_url": null,
+            "image_alt": "Old Rauma",
+            "route_summary": "Walking (2.2 km) through Old Rauma.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Old Rauma",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Explore Scandinavia's historic wooden town area."
+              }
+            ]
+          }
+        },
+        {
+          "id": "holy-cross-church-rauma",
+          "name": "Holy Cross Church (Rauma)",
+          "city": "Rauma",
+          "image_url": null,
+          "image_alt": "Medieval Holy Cross Church in Rauma",
+          "popular": true,
+          "popularity_score": 86,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "history",
+            "architecture",
+            "culture"
+          ],
+          "coordinates": {
+            "lat": 61.1264,
+            "lon": 21.5142
+          },
+          "summary": "Medieval Franciscan monastery church in Rauma dating back to the 15th/16th centuries.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Holy Cross Church Visit",
+              "type": "attraction",
+              "duration_mins": 60,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Holy Cross Church in Rauma",
+              "notes": "Check church open hours and service times."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.1,
+            "waypoints": [
+              {
+                "name": "Holy Cross Church (Rauma)",
+                "lat": 61.1264,
+                "lon": 21.5142,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Medieval Church Heritage",
+            "image_url": null,
+            "image_alt": "Holy Cross Church Rauma",
+            "route_summary": "Walking (1.1 km) to Holy Cross Church.",
+            "stops": [
+              {
+                "time": "13:30",
+                "title": "Holy Cross Church (Rauma)",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Visit Rauma's historic medieval church."
+              }
+            ]
+          }
+        },
+        {
+          "id": "sammallahdenmaki-bronze-age-site",
+          "name": "Sammallahdenmäki Bronze Age Burial Site",
+          "city": "Rauma",
+          "image_url": null,
+          "image_alt": "Sammallahdenmäki stone cairns near Rauma",
+          "popular": true,
+          "popularity_score": 88,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "history",
+            "unesco",
+            "nature",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 61.1194,
+            "lon": 21.7758
+          },
+          "summary": "UNESCO World Heritage archaeological site near Rauma featuring ancient Bronze Age stone cairns in rocky forest terrain.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Bronze Age Cairns Trail",
+              "type": "nature",
+              "duration_mins": 90,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Stone burial cairns at Sammallahdenmäki",
+              "notes": "Wear sturdy walking shoes on rocky terrain."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Car / Local Transfer + Walking",
+            "total_distance_km": 18.5,
+            "waypoints": [
+              {
+                "name": "Sammallahdenmäki Bronze Age Burial Site",
+                "lat": 61.1194,
+                "lon": 21.7758,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Ancient Cairn Archaeology",
+            "image_url": null,
+            "image_alt": "Sammallahdenmäki",
+            "route_summary": "Car / Local Transfer + Walking (18.5 km) to Sammallahdenmäki.",
+            "stops": [
+              {
+                "time": "11:00",
+                "title": "Sammallahdenmäki Bronze Age Burial Site",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Explore UNESCO Bronze Age stone cairns."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "naantali",
+      "city": "Naantali",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Naantali coastal town and wooden houses",
+      "coordinates": {
+        "lat": 60.4678,
+        "lon": 22.0256
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "naantali-old-town",
+          "name": "Naantali Old Town",
+          "city": "Naantali",
+          "image_url": null,
+          "image_alt": "Historic wooden streets of Naantali Old Town",
+          "popular": true,
+          "popularity_score": 90,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "history",
+            "walking",
+            "culture",
+            "coastal"
+          ],
+          "coordinates": {
+            "lat": 60.4692,
+            "lon": 22.0247
+          },
+          "summary": "Seaside old town with colorful wooden houses, narrow cobbled lanes, cafes, and harbor views near Turku.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Old Town Lanes & Harbor Walk",
+              "type": "attraction",
+              "duration_mins": 120,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Wooden buildings and harbor in Naantali",
+              "notes": "Stroll the historic wooden streets and waterfront."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 2.0,
+            "waypoints": [
+              {
+                "name": "Naantali Harbor",
+                "lat": 60.4678,
+                "lon": 22.0256,
+                "image_url": null
+              },
+              {
+                "name": "Naantali Old Town",
+                "lat": 60.4692,
+                "lon": 22.0247,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Seaside Wooden Town Stroll",
+            "image_url": null,
+            "image_alt": "Naantali Old Town",
+            "route_summary": "Walking (2.0 km) through Naantali Harbor and Old Town.",
+            "stops": [
+              {
+                "time": "13:30",
+                "title": "Naantali Old Town",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Explore wooden architecture and waterfront."
+              }
+            ]
+          }
+        },
+        {
+          "id": "kultaranta-garden",
+          "name": "Kultaranta Garden",
+          "city": "Naantali",
+          "image_url": null,
+          "image_alt": "Kultaranta gardens in Naantali",
+          "popular": false,
+          "popularity_score": 83,
+          "price_range": "budget",
+          "estimated_cost_eur": 10,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "nature",
+            "garden",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 60.4533,
+            "lon": 22.0089
+          },
+          "summary": "Gardens surrounding the summer residence of the President of Finland in Naantali, open seasonally.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Kultaranta Garden Walk",
+              "type": "nature",
+              "duration_mins": 90,
+              "cost_eur": 10,
+              "image_url": null,
+              "image_alt": "Garden paths at Kultaranta",
+              "notes": "Check summer garden opening dates and guided tour rules."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 2.4,
+            "waypoints": [
+              {
+                "name": "Kultaranta Garden",
+                "lat": 60.4533,
+                "lon": 22.0089,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Gardens & Coastal Paths",
+            "image_url": null,
+            "image_alt": "Kultaranta Garden",
+            "route_summary": "Walking (2.4 km) through Kultaranta Garden.",
+            "stops": [
+              {
+                "time": "15:00",
+                "title": "Kultaranta Garden",
+                "type": "nature",
+                "cost_eur": 10,
+                "notes": "Seasonal summer access; check schedule."
+              }
+            ]
+          }
+        },
+        {
+          "id": "naantali-church",
+          "name": "Naantali Church",
+          "city": "Naantali",
+          "image_url": null,
+          "image_alt": "Naantali Church medieval stone church",
+          "popular": false,
+          "popularity_score": 81,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "history",
+            "architecture",
+            "culture"
+          ],
+          "coordinates": {
+            "lat": 60.4686,
+            "lon": 22.0268
+          },
+          "summary": "Medieval stone church built in the 1460s as part of the former Bridgettine monastery in Naantali.",
+          "best_time_of_day": "Morning",
+          "seed_stops": [
+            {
+              "title": "Naantali Church Visit",
+              "type": "attraction",
+              "duration_mins": 60,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Exterior of Naantali Church",
+              "notes": "Check visitor hours before entering."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 0.9,
+            "waypoints": [
+              {
+                "name": "Naantali Church",
+                "lat": 60.4686,
+                "lon": 22.0268,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Medieval Monastery Heritage",
+            "image_url": null,
+            "image_alt": "Naantali Church",
+            "route_summary": "Walking (0.9 km) to Naantali Church.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Naantali Church",
+                "type": "attraction",
+                "cost_eur": 0,
+                "notes": "Visit the historic medieval stone church."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "koli",
+      "city": "Koli",
+      "region": "North Karelia",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Koli hills overlooking Lake Pielinen",
+      "coordinates": {
+        "lat": 63.0964,
+        "lon": 29.8056
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "koli-national-park",
+          "name": "Koli National Park",
+          "city": "Koli",
+          "image_url": null,
+          "image_alt": "Koli National Park trails and Lake Pielinen view",
+          "popular": true,
+          "popularity_score": 96,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2,
+            3
+          ],
+          "tags": [
+            "nature",
+            "hiking",
+            "views",
+            "national_park"
+          ],
+          "coordinates": {
+            "lat": 63.0989,
+            "lon": 29.8114
+          },
+          "summary": "National park in North Karelia famous for elevated ridge viewpoints over Lake Pielinen, forest trails, and seasonal outdoor activities.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Koli Ridge & Lake Pielinen Overlook",
+              "type": "nature",
+              "duration_mins": 180,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "View over Lake Pielinen from Koli",
+              "notes": "Wear sturdy footwear and check trail conditions by season."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Hiking / Walking",
+            "total_distance_km": 5.5,
+            "waypoints": [
+              {
+                "name": "Koli National Park",
+                "lat": 63.0989,
+                "lon": 29.8114,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Lake Pielinen Scenic Hike",
+            "image_url": null,
+            "image_alt": "Koli National Park",
+            "route_summary": "Hiking / Walking (5.5 km) in Koli National Park.",
+            "stops": [
+              {
+                "time": "09:30",
+                "title": "Koli National Park",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Enjoy national landscape viewpoints and trails."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "kuopio",
+      "city": "Kuopio",
+      "region": "North Savo",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Kuopio and surrounding Lakeland trails",
+      "coordinates": {
+        "lat": 62.8924,
+        "lon": 27.677
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "puijo-nature-trails",
+          "name": "Puijo Nature Trails",
+          "city": "Kuopio",
+          "image_url": null,
+          "image_alt": "Puijo forest trails in Kuopio",
+          "popular": true,
+          "popularity_score": 88,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "nature",
+            "hiking",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 62.9094,
+            "lon": 27.6581
+          },
+          "summary": "Forest hiking and nature trail network near central Kuopio offering year-round outdoor trails and accessible paths.",
+          "best_time_of_day": "Morning or Afternoon",
+          "seed_stops": [
+            {
+              "title": "Puijo Thematic Nature Trail",
+              "type": "nature",
+              "duration_mins": 120,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Forest trail at Puijo in Kuopio",
+              "notes": "Follow marked thematic trails near central Kuopio."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Bus + Walking",
+            "total_distance_km": 6.3,
+            "waypoints": [
+              {
+                "name": "Puijo Nature Trails",
+                "lat": 62.9094,
+                "lon": 27.6581,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Puijo Forest Excursion",
+            "image_url": null,
+            "image_alt": "Puijo Nature Trails",
+            "route_summary": "Bus + Walking (6.3 km) on Puijo nature trails.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Puijo Nature Trails",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Walk the nature trails close to Kuopio."
+              }
+            ]
+          }
+        },
+        {
+          "id": "lintuniemi-nature-reserve",
+          "name": "Lintuniemi Nature Reserve",
+          "city": "Kuopio",
+          "image_url": null,
+          "image_alt": "Lintuniemi esker trail in Kuopio",
+          "popular": false,
+          "popularity_score": 79,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "nature",
+            "walking",
+            "lake"
+          ],
+          "coordinates": {
+            "lat": 62.8785,
+            "lon": 27.6412
+          },
+          "summary": "Esker trail and nature reserve near Kuopio with shoreline scenery and easy walking paths.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Lintuniemi Esker Trail",
+              "type": "nature",
+              "duration_mins": 90,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Narrow esker path at Lintuniemi",
+              "notes": "Easy-paced excursion along the esker trail."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 3.0,
+            "waypoints": [
+              {
+                "name": "Lintuniemi Nature Reserve",
+                "lat": 62.8785,
+                "lon": 27.6412,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Lakeshore Esker Walk",
+            "image_url": null,
+            "image_alt": "Lintuniemi Nature Reserve",
+            "route_summary": "Walking (3.0 km) along Lintuniemi trail.",
+            "stops": [
+              {
+                "time": "14:00",
+                "title": "Lintuniemi Nature Reserve",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Enjoy calm lakeside esker scenery."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "jyvaskyla",
+      "city": "Jyväskylä",
+      "region": "Central Finland",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Jyväskylä harbor and lakeside area",
+      "coordinates": {
+        "lat": 62.2426,
+        "lon": 25.7473
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "haukanniemi-nature-trail",
+          "name": "Haukanniemi Nature Trail",
+          "city": "Jyväskylä",
+          "image_url": null,
+          "image_alt": "Haukanniemi trail in Jyväskylä",
+          "popular": false,
+          "popularity_score": 80,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "nature",
+            "walking",
+            "birdwatching"
+          ],
+          "coordinates": {
+            "lat": 62.2261,
+            "lon": 25.7367
+          },
+          "summary": "Nature trail in Jyväskylä passing bay bird habitats and coastal/forest terrain.",
+          "best_time_of_day": "Morning",
+          "seed_stops": [
+            {
+              "title": "Haukanniemi Thematic Trail",
+              "type": "nature",
+              "duration_mins": 90,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Trail along Haukanniemi in Jyväskylä",
+              "notes": "Quiet nature walk near Jyväskylä."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 1.6,
+            "waypoints": [
+              {
+                "name": "Haukanniemi Nature Trail",
+                "lat": 62.2261,
+                "lon": 25.7367,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Bay & Forest Trail",
+            "image_url": null,
+            "image_alt": "Haukanniemi Nature Trail",
+            "route_summary": "Walking (1.6 km) on Haukanniemi trail.",
+            "stops": [
+              {
+                "time": "09:30",
+                "title": "Haukanniemi Nature Trail",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Explore coastal and bay nature in Jyväskylä."
+              }
+            ]
+          }
+        },
+        {
+          "id": "tourujoen-nature-trail",
+          "name": "Tourujoen Nature Trail",
+          "city": "Jyväskylä",
+          "image_url": null,
+          "image_alt": "Tourujoki stream trail in Jyväskylä",
+          "popular": false,
+          "popularity_score": 78,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "nature",
+            "walking",
+            "urban_nature"
+          ],
+          "coordinates": {
+            "lat": 62.2489,
+            "lon": 25.7642
+          },
+          "summary": "Short urban nature trail along the Tourujoki stream in Jyväskylä.",
+          "best_time_of_day": "Afternoon",
+          "seed_stops": [
+            {
+              "title": "Tourujoki Stream Walk",
+              "type": "nature",
+              "duration_mins": 60,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Stream path along Tourujoki",
+              "notes": "Quick, accessible walk near central Jyväskylä."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 0.7,
+            "waypoints": [
+              {
+                "name": "Tourujoen Nature Trail",
+                "lat": 62.2489,
+                "lon": 25.7642,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "City Stream Stroll",
+            "image_url": null,
+            "image_alt": "Tourujoen Nature Trail",
+            "route_summary": "Walking (0.7 km) along Tourujoen trail.",
+            "stops": [
+              {
+                "time": "15:00",
+                "title": "Tourujoen Nature Trail",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Short nature walk in Jyväskylä."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lahti",
+      "city": "Lahti",
+      "region": "Päijät-Häme",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Lahti ski jump and lake landscape",
+      "coordinates": {
+        "lat": 60.9827,
+        "lon": 25.6612
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "lapakisto-nature-reserve",
+          "name": "Lapakisto Nature Reserve",
+          "city": "Lahti",
+          "image_url": null,
+          "image_alt": "Lapakisto Nature Reserve forests and lakes near Lahti",
+          "popular": true,
+          "popularity_score": 86,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1,
+            2
+          ],
+          "tags": [
+            "nature",
+            "hiking",
+            "lake"
+          ],
+          "coordinates": {
+            "lat": 60.9225,
+            "lon": 25.8542
+          },
+          "summary": "Protected nature reserve near Lahti featuring rocky outcrops, mires, forest paths, and lake scenery.",
+          "best_time_of_day": "Morning to Afternoon",
+          "seed_stops": [
+            {
+              "title": "Lapakisto Forest & Lake Trails",
+              "type": "nature",
+              "duration_mins": 150,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Trail through Lapakisto Nature Reserve",
+              "notes": "Bring water and check seasonal trail markers."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Hiking / Walking",
+            "total_distance_km": 5.0,
+            "waypoints": [
+              {
+                "name": "Lapakisto Nature Reserve",
+                "lat": 60.9225,
+                "lon": 25.8542,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Forests, Mires & Lakes",
+            "image_url": null,
+            "image_alt": "Lapakisto Nature Reserve",
+            "route_summary": "Hiking / Walking (5.0 km) in Lapakisto Nature Reserve.",
+            "stops": [
+              {
+                "time": "10:00",
+                "title": "Lapakisto Nature Reserve",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Explore rocky outcrops and lake trails near Lahti."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "vaasa",
+      "city": "Vaasa",
+      "region": "Ostrobothnia",
+      "country": "Finland",
+      "image_url": null,
+      "image_alt": "Vaasa coastal and archipelago area",
+      "coordinates": {
+        "lat": 63.096,
+        "lon": 21.6158
+      },
+      "currency": "EUR",
+      "places": [
+        {
+          "id": "ojen-nature-trail",
+          "name": "Öjen Nature Trail",
+          "city": "Vaasa",
+          "image_url": null,
+          "image_alt": "Öjen Nature Trail in Vaasa",
+          "popular": false,
+          "popularity_score": 81,
+          "price_range": "free",
+          "estimated_cost_eur": 0,
+          "recommended_days": [
+            1
+          ],
+          "tags": [
+            "nature",
+            "hiking",
+            "walking"
+          ],
+          "coordinates": {
+            "lat": 63.0358,
+            "lon": 21.5528
+          },
+          "summary": "Marked nature trail in Vaasa offering coastal and woodland scenery for a half-day outdoor outing.",
+          "best_time_of_day": "Morning",
+          "seed_stops": [
+            {
+              "title": "Öjen Trail Walk",
+              "type": "nature",
+              "duration_mins": 120,
+              "cost_eur": 0,
+              "image_url": null,
+              "image_alt": "Path along Öjen Nature Trail",
+              "notes": "Follow trail signage and wear comfortable shoes."
+            }
+          ],
+          "seed_route": {
+            "transport_mode": "Walking",
+            "total_distance_km": 4.6,
+            "waypoints": [
+              {
+                "name": "Öjen Nature Trail",
+                "lat": 63.0358,
+                "lon": 21.5528,
+                "image_url": null
+              }
+            ]
+          },
+          "fallback_plan": {
+            "day": 1,
+            "theme": "Vaasa Coastal & Forest Trail",
+            "image_url": null,
+            "image_alt": "Öjen Nature Trail",
+            "route_summary": "Walking (4.6 km) along Öjen Nature Trail.",
+            "stops": [
+              {
+                "time": "09:30",
+                "title": "Öjen Nature Trail",
+                "type": "nature",
+                "cost_eur": 0,
+                "notes": "Enjoy a scenic trail walk near Vaasa."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

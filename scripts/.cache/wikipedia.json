@@ -1,0 +1,3035 @@
+{
+ "Helsinki": {
+  "title": "Helsinki",
+  "url": "https://en.wikipedia.org/wiki/Helsinki",
+  "lat": 60.17083333,
+  "lon": 24.9375,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/1280px-Suomenlinna_%28cropped%29.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/500px-Suomenlinna_%28cropped%29.jpg"
+ },
+ "Rovaniemi": {
+  "title": "Rovaniemi",
+  "url": "https://en.wikipedia.org/wiki/Rovaniemi",
+  "lat": 66.5,
+  "lon": 25.73333333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Rovaniemi_Montage.jpg/1280px-Rovaniemi_Montage.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Rovaniemi_Montage.jpg/500px-Rovaniemi_Montage.jpg"
+ },
+ "Turku": {
+  "title": "Turku",
+  "url": "https://en.wikipedia.org/wiki/Turku",
+  "lat": 60.4517,
+  "lon": 22.2669,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/View_from_Turku_Cathedral_tower.jpg/1280px-View_from_Turku_Cathedral_tower.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/View_from_Turku_Cathedral_tower.jpg/500px-View_from_Turku_Cathedral_tower.jpg"
+ },
+ "Tampere": {
+  "title": "Tampere",
+  "url": "https://en.wikipedia.org/wiki/Tampere",
+  "lat": 61.49805556,
+  "lon": 23.76,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tampere.lippu.svg/960px-Tampere.lippu.svg.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tampere.lippu.svg/500px-Tampere.lippu.svg.png"
+ },
+ "Porvoo": {
+  "title": "Porvoo",
+  "url": "https://en.wikipedia.org/wiki/Porvoo",
+  "lat": 60.39444444,
+  "lon": 25.66388889,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Porvoo_in_January.jpg/1280px-Porvoo_in_January.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Porvoo_in_January.jpg/500px-Porvoo_in_January.jpg"
+ },
+ "Naantali": {
+  "title": "Naantali",
+  "url": "https://en.wikipedia.org/wiki/Naantali",
+  "lat": 60.46666667,
+  "lon": 22.03333333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kuvakollaasi_Naantalista.jpg/1280px-Kuvakollaasi_Naantalista.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kuvakollaasi_Naantalista.jpg/500px-Kuvakollaasi_Naantalista.jpg"
+ },
+ "Kuopio": {
+  "title": "Kuopio",
+  "url": "https://en.wikipedia.org/wiki/Kuopio",
+  "lat": 62.8925,
+  "lon": 27.67833333,
+  "image": null,
+  "thumb": null
+ },
+ "Jyväskylä": {
+  "title": "Jyväskylä",
+  "url": "https://en.wikipedia.org/wiki/Jyv%C3%A4skyl%C3%A4",
+  "lat": 62.24166667,
+  "lon": 25.74166667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Jyv%C3%A4skyl%C3%A4_collage2.jpg/1280px-Jyv%C3%A4skyl%C3%A4_collage2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Jyv%C3%A4skyl%C3%A4_collage2.jpg/500px-Jyv%C3%A4skyl%C3%A4_collage2.jpg"
+ },
+ "Lahti": {
+  "title": "Lahti",
+  "url": "https://en.wikipedia.org/wiki/Lahti",
+  "lat": 60.98333333,
+  "lon": 25.65,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Lahti_view_2.jpg/1280px-Lahti_view_2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Lahti_view_2.jpg/500px-Lahti_view_2.jpg"
+ },
+ "Vaasa": {
+  "title": "Vaasa",
+  "url": "https://en.wikipedia.org/wiki/Vaasa",
+  "lat": 63.1,
+  "lon": 21.61666667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Vaasa.lippu.svg/500px-Vaasa.lippu.svg.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Vaasa.lippu.svg/500px-Vaasa.lippu.svg.png"
+ },
+ "Espoo": {
+  "title": "Espoo",
+  "url": "https://en.wikipedia.org/wiki/Espoo",
+  "lat": 60.20555556,
+  "lon": 24.65555556,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg/1280px-Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg/500px-Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg"
+ },
+ "Vantaa": {
+  "title": "Vantaa",
+  "url": "https://en.wikipedia.org/wiki/Vantaa",
+  "lat": 60.29444444,
+  "lon": 25.04027778,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/VantaaMontage1%28jpg%29.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/VantaaMontage1%28jpg%29.jpg/500px-VantaaMontage1%28jpg%29.jpg"
+ },
+ "Loviisa": {
+  "title": "Loviisa",
+  "url": "https://en.wikipedia.org/wiki/Loviisa",
+  "lat": 60.45833333,
+  "lon": 26.23333333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Loviisa_townhall_Square.jpg/1280px-Loviisa_townhall_Square.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Loviisa_townhall_Square.jpg/500px-Loviisa_townhall_Square.jpg"
+ },
+ "Raseborg": {
+  "title": "Raseborg",
+  "url": "https://en.wikipedia.org/wiki/Raseborg",
+  "lat": 59.975,
+  "lon": 23.43333333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Castle_of_Raseborg_%28Raaseporin_linna%29_in_Tammisaari_Finland.jpg/1280px-Castle_of_Raseborg_%28Raaseporin_linna%29_in_Tammisaari_Finland.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Castle_of_Raseborg_%28Raaseporin_linna%29_in_Tammisaari_Finland.jpg/500px-Castle_of_Raseborg_%28Raaseporin_linna%29_in_Tammisaari_Finland.jpg"
+ },
+ "Pori": {
+  "title": "Pori",
+  "url": "https://en.wikipedia.org/wiki/Pori",
+  "lat": 61.48333333,
+  "lon": 21.8,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pori.lippu.svg/960px-Pori.lippu.svg.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pori.lippu.svg/500px-Pori.lippu.svg.png"
+ },
+ "Mänttä-Vilppula": {
+  "title": "Mänttä-Vilppula",
+  "url": "https://en.wikipedia.org/wiki/M%C3%A4ntt%C3%A4-Vilppula",
+  "lat": 62.03333333,
+  "lon": 24.61666667,
+  "image": null,
+  "thumb": null
+ },
+ "Kotka": {
+  "title": "Kotka",
+  "url": "https://en.wikipedia.org/wiki/Kotka",
+  "lat": 60.46388889,
+  "lon": 26.94277778,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/City_of_kotka.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/City_of_kotka.png/500px-City_of_kotka.png"
+ },
+ "Mikkeli": {
+  "title": "Mikkeli",
+  "url": "https://en.wikipedia.org/wiki/Mikkeli",
+  "lat": 61.689,
+  "lon": 27.272,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mikkelin_keskusta_Naisvuorelta.JPG/1280px-Mikkelin_keskusta_Naisvuorelta.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mikkelin_keskusta_Naisvuorelta.JPG/500px-Mikkelin_keskusta_Naisvuorelta.JPG"
+ },
+ "Suomenlinna": {
+  "title": "Suomenlinna",
+  "url": "https://en.wikipedia.org/wiki/Suomenlinna",
+  "lat": 60.14361111,
+  "lon": 24.98444444,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Suomenlinna_aerial.JPG/1280px-Suomenlinna_aerial.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Suomenlinna_aerial.JPG/500px-Suomenlinna_aerial.JPG"
+ },
+ "Ateneum": {
+  "title": "Ateneum",
+  "url": "https://en.wikipedia.org/wiki/Ateneum",
+  "lat": 60.17,
+  "lon": 24.94416667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Helsinki_July_2013-26a.jpg/1280px-Helsinki_July_2013-26a.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Helsinki_July_2013-26a.jpg/500px-Helsinki_July_2013-26a.jpg"
+ },
+ "Turku Cathedral": {
+  "title": "Turku Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Turku_Cathedral",
+  "lat": 60.4524,
+  "lon": 22.2781,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Turun_tuomiokirkko.jpg/1280px-Turun_tuomiokirkko.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Turun_tuomiokirkko.jpg/500px-Turun_tuomiokirkko.jpg"
+ },
+ "Olavinlinna": {
+  "title": "Olavinlinna",
+  "url": "https://en.wikipedia.org/wiki/Olavinlinna",
+  "lat": 61.86388889,
+  "lon": 28.90111111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Olavinlinna_Savonlinna_Finland.jpg/1280px-Olavinlinna_Savonlinna_Finland.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Olavinlinna_Savonlinna_Finland.jpg/500px-Olavinlinna_Savonlinna_Finland.jpg"
+ },
+ "Aurora": {
+  "title": "Aurora",
+  "url": "https://en.wikipedia.org/wiki/Aurora",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg/1280px-Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg/500px-Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg"
+ },
+ "__head__https://commons.wikimedia.org/wiki/Special:FilePath/Suomenlinna_II_ferry.jpg?width=500": true,
+ "__head__https://commons.wikimedia.org/wiki/Special:FilePath/Helsinki_Senate_Square_and_Helsinki_Cathedral_in_May_2026.jpg?width=500": true,
+ "Inari": null,
+ "Rauma": null,
+ "Koli": null,
+ "Hanko": null,
+ "Hämeenlinna": {
+  "title": "Hämeenlinna",
+  "url": "https://en.wikipedia.org/wiki/H%C3%A4meenlinna",
+  "lat": 60.99444444,
+  "lon": 24.46666667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hame_Castle_2019-08.jpg/1280px-Hame_Castle_2019-08.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hame_Castle_2019-08.jpg/500px-Hame_Castle_2019-08.jpg"
+ },
+ "Kouvola": {
+  "title": "Kouvola",
+  "url": "https://en.wikipedia.org/wiki/Kouvola",
+  "lat": 60.86805556,
+  "lon": 26.70416667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Kouvola_aerial_2.jpg/1280px-Kouvola_aerial_2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Kouvola_aerial_2.jpg/500px-Kouvola_aerial_2.jpg"
+ },
+ "Lappeenranta": {
+  "title": "Lappeenranta",
+  "url": "https://en.wikipedia.org/wiki/Lappeenranta",
+  "lat": 61.06666667,
+  "lon": 28.18333333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Lappeenranta_Landscape.jpg/1280px-Lappeenranta_Landscape.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Lappeenranta_Landscape.jpg/500px-Lappeenranta_Landscape.jpg"
+ },
+ "Imatra": {
+  "title": "Imatra",
+  "url": "https://en.wikipedia.org/wiki/Imatra",
+  "lat": 61.18333333,
+  "lon": 28.76666667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Imatrankoski_Valtionhotelli_ilma.jpg/1280px-Imatrankoski_Valtionhotelli_ilma.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Imatrankoski_Valtionhotelli_ilma.jpg/500px-Imatrankoski_Valtionhotelli_ilma.jpg"
+ },
+ "Savonlinna": {
+  "title": "Savonlinna",
+  "url": "https://en.wikipedia.org/wiki/Savonlinna",
+  "lat": 61.86805556,
+  "lon": 28.88611111,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Savonlinna_satama_20090711.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Savonlinna_satama_20090711.jpg/500px-Savonlinna_satama_20090711.jpg"
+ },
+ "Joensuu": {
+  "title": "Joensuu",
+  "url": "https://en.wikipedia.org/wiki/Joensuu",
+  "lat": 62.6,
+  "lon": 29.75,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Joensuu.lippu.svg/960px-Joensuu.lippu.svg.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Joensuu.lippu.svg/500px-Joensuu.lippu.svg.png"
+ },
+ "Kalajoki": {
+  "title": "Kalajoki",
+  "url": "https://en.wikipedia.org/wiki/Kalajoki",
+  "lat": 64.26666667,
+  "lon": 23.95,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kalajoki_kaupungintalo.jpg/1280px-Kalajoki_kaupungintalo.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kalajoki_kaupungintalo.jpg/500px-Kalajoki_kaupungintalo.jpg"
+ },
+ "Oulu": {
+  "title": "Oulu",
+  "url": "https://en.wikipedia.org/wiki/Oulu",
+  "lat": 65.01416667,
+  "lon": 25.47194444,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/1280px-Montage_Pokkinen_Oulu.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Montage_Pokkinen_Oulu.jpg/500px-Montage_Pokkinen_Oulu.jpg"
+ },
+ "Vuokatti": {
+  "title": "Vuokatti",
+  "url": "https://en.wikipedia.org/wiki/Vuokatti",
+  "lat": 64.1458,
+  "lon": 28.2717,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vuokatti_Church_2022-12-25.jpg/1280px-Vuokatti_Church_2022-12-25.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vuokatti_Church_2022-12-25.jpg/500px-Vuokatti_Church_2022-12-25.jpg"
+ },
+ "Ruka": null,
+ "Kemi": {
+  "title": "Kemi",
+  "url": "https://en.wikipedia.org/wiki/Kemi",
+  "lat": 65.73611111,
+  "lon": 24.56361111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Montage_of_Kemi_03.jpg/1280px-Montage_of_Kemi_03.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Montage_of_Kemi_03.jpg/500px-Montage_of_Kemi_03.jpg"
+ },
+ "Luosto": {
+  "title": "Luosto",
+  "url": "https://en.wikipedia.org/wiki/Luosto",
+  "lat": 67.15,
+  "lon": 26.8833,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Luosto_ilmasta.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Luosto_ilmasta.jpg/500px-Luosto_ilmasta.jpg"
+ },
+ "Levi, Finland": {
+  "title": "Levi, Finland",
+  "url": "https://en.wikipedia.org/wiki/Levi%2C_Finland",
+  "lat": 67.805,
+  "lon": 24.802,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Levi_-_panoramio.jpg/1280px-Levi_-_panoramio.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Levi_-_panoramio.jpg/500px-Levi_-_panoramio.jpg"
+ },
+ "Äkäslompolo": {
+  "title": "Äkäslompolo",
+  "url": "https://en.wikipedia.org/wiki/%C3%84k%C3%A4slompolo",
+  "lat": 67.604311,
+  "lon": 24.155451,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%C3%84k%C3%A4slompolo_from_the_top_of_Yll%C3%A4s_Fell.jpg/1280px-%C3%84k%C3%A4slompolo_from_the_top_of_Yll%C3%A4s_Fell.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%C3%84k%C3%A4slompolo_from_the_top_of_Yll%C3%A4s_Fell.jpg/500px-%C3%84k%C3%A4slompolo_from_the_top_of_Yll%C3%A4s_Fell.jpg"
+ },
+ "Saariselkä": {
+  "title": "Saariselkä",
+  "url": "https://en.wikipedia.org/wiki/Saariselk%C3%A4",
+  "lat": 68.25,
+  "lon": 28.16666667,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kaunisp%C3%A4%C3%A4.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaunisp%C3%A4%C3%A4.jpg/500px-Kaunisp%C3%A4%C3%A4.jpg"
+ },
+ "Kilpisjärvi (village)": null,
+ "Utsjoki": {
+  "title": "Utsjoki",
+  "url": "https://en.wikipedia.org/wiki/Utsjoki",
+  "lat": 69.9,
+  "lon": 27.01666667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Utsjoki_kirkko_ja_kirkkotuvat.JPG/1280px-Utsjoki_kirkko_ja_kirkkotuvat.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Utsjoki_kirkko_ja_kirkkotuvat.JPG/500px-Utsjoki_kirkko_ja_kirkkotuvat.JPG"
+ },
+ "Mariehamn": {
+  "title": "Mariehamn",
+  "url": "https://en.wikipedia.org/wiki/Mariehamn",
+  "lat": 60.1,
+  "lon": 19.93333333,
+  "image": null,
+  "thumb": null
+ },
+ "Helsinki Cathedral": {
+  "title": "Helsinki Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Helsinki_Cathedral",
+  "lat": 60.17027778,
+  "lon": 24.95222222,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Kirkko3.png/1280px-Kirkko3.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Kirkko3.png/500px-Kirkko3.png"
+ },
+ "Temppeliaukio Church": {
+  "title": "Temppeliaukio Church",
+  "url": "https://en.wikipedia.org/wiki/Temppeliaukio_Church",
+  "lat": 60.17305556,
+  "lon": 24.92527778,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Temppeliaukio_Church_Helsinki.jpg/1280px-Temppeliaukio_Church_Helsinki.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Temppeliaukio_Church_Helsinki.jpg/500px-Temppeliaukio_Church_Helsinki.jpg"
+ },
+ "Uspenski Cathedral": {
+  "title": "Uspenski Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Uspenski_Cathedral",
+  "lat": 60.16833333,
+  "lon": 24.96,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Catedral_Uspenski%2C_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_03.JPG/1280px-Catedral_Uspenski%2C_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_03.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Catedral_Uspenski%2C_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_03.JPG/500px-Catedral_Uspenski%2C_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_03.JPG"
+ },
+ "Sibelius Monument": {
+  "title": "Sibelius Monument",
+  "url": "https://en.wikipedia.org/wiki/Sibelius_Monument",
+  "lat": 60.18205,
+  "lon": 24.91343,
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/The_Sibelius_Momenument_in_Helsinki%2C_by_the_Finnish_sculptor_Eila_Hiltunen.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/en/d/d7/The_Sibelius_Momenument_in_Helsinki%2C_by_the_Finnish_sculptor_Eila_Hiltunen.jpg"
+ },
+ "Korkeasaari Zoo": {
+  "title": "Korkeasaari Zoo",
+  "url": "https://en.wikipedia.org/wiki/Korkeasaari_Zoo",
+  "lat": 60.175,
+  "lon": 24.98416667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Snow_leopard_in_Korkeasaari_Zoo.jpg/1280px-Snow_leopard_in_Korkeasaari_Zoo.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Snow_leopard_in_Korkeasaari_Zoo.jpg/500px-Snow_leopard_in_Korkeasaari_Zoo.jpg"
+ },
+ "Linnanmäki": {
+  "title": "Linnanmäki",
+  "url": "https://en.wikipedia.org/wiki/Linnanm%C3%A4ki",
+  "lat": 60.18833333,
+  "lon": 24.94027778,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Linnanm%C3%A4ki_ilmasta_27.5.2017.jpg/1280px-Linnanm%C3%A4ki_ilmasta_27.5.2017.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Linnanm%C3%A4ki_ilmasta_27.5.2017.jpg/500px-Linnanm%C3%A4ki_ilmasta_27.5.2017.jpg"
+ },
+ "Seurasaari": {
+  "title": "Seurasaari",
+  "url": "https://en.wikipedia.org/wiki/Seurasaari",
+  "lat": 60.18333333,
+  "lon": 24.88333333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Seurasaari-2005-johannus2.jpg/1280px-Seurasaari-2005-johannus2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Seurasaari-2005-johannus2.jpg/500px-Seurasaari-2005-johannus2.jpg"
+ },
+ "Helsinki Central Library Oodi": {
+  "title": "Helsinki Central Library Oodi",
+  "url": "https://en.wikipedia.org/wiki/Helsinki_Central_Library_Oodi",
+  "lat": 60.1738,
+  "lon": 24.9381,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Oodi_Library_%28Helsinki%2C_Finland%29.jpg/1280px-Oodi_Library_%28Helsinki%2C_Finland%29.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Oodi_Library_%28Helsinki%2C_Finland%29.jpg/500px-Oodi_Library_%28Helsinki%2C_Finland%29.jpg"
+ },
+ "Kaivopuisto": {
+  "title": "Kaivopuisto",
+  "url": "https://en.wikipedia.org/wiki/Kaivopuisto",
+  "lat": 60.15694444,
+  "lon": 24.95694444,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kaivopuisto_in_September_3_-_Marit_Henriksson.jpg/1280px-Kaivopuisto_in_September_3_-_Marit_Henriksson.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kaivopuisto_in_September_3_-_Marit_Henriksson.jpg/500px-Kaivopuisto_in_September_3_-_Marit_Henriksson.jpg"
+ },
+ "Vallisaari": {
+  "title": "Vallisaari",
+  "url": "https://en.wikipedia.org/wiki/Vallisaari",
+  "lat": 60.137,
+  "lon": 25.002,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Vallisaari%2C_Helsinki%2C_Finland_05.jpg/1280px-Vallisaari%2C_Helsinki%2C_Finland_05.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Vallisaari%2C_Helsinki%2C_Finland_05.jpg/500px-Vallisaari%2C_Helsinki%2C_Finland_05.jpg"
+ },
+ "Santa Claus Village": {
+  "title": "Santa Claus Village",
+  "url": "https://en.wikipedia.org/wiki/Santa_Claus_Village",
+  "lat": 66.54333333,
+  "lon": 25.8475,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Santa_Claus_Village.jpg/1280px-Santa_Claus_Village.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Santa_Claus_Village.jpg/500px-Santa_Claus_Village.jpg"
+ },
+ "Arktikum (museum)": null,
+ "Ranua Zoo": {
+  "title": "Ranua Resort",
+  "url": "https://en.wikipedia.org/wiki/Ranua_Resort",
+  "lat": 65.94222222,
+  "lon": 26.46833333,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ranuazooarensarrera.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Ranuazooarensarrera.jpg/500px-Ranuazooarensarrera.jpg"
+ },
+ "SantaPark": null,
+ "Turku Castle": {
+  "title": "Turku Castle",
+  "url": "https://en.wikipedia.org/wiki/Turku_Castle",
+  "lat": 60.43527778,
+  "lon": 22.22861111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Turkucastle_edit.jpg/1280px-Turkucastle_edit.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Turkucastle_edit.jpg/500px-Turkucastle_edit.jpg"
+ },
+ "Luostarinmäki": {
+  "title": "Luostarinmäki",
+  "url": "https://en.wikipedia.org/wiki/Luostarinm%C3%A4ki",
+  "lat": 60.44694444,
+  "lon": 22.2775,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Luostarinm%C3%A4ki_Handicrafts_Museum.JPG/1280px-Luostarinm%C3%A4ki_Handicrafts_Museum.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Luostarinm%C3%A4ki_Handicrafts_Museum.JPG/500px-Luostarinm%C3%A4ki_Handicrafts_Museum.JPG"
+ },
+ "Aboa Vetus & Ars Nova": {
+  "title": "Aboa Vetus & Ars Nova",
+  "url": "https://en.wikipedia.org/wiki/Aboa_Vetus_%26_Ars_Nova",
+  "lat": 60.44972222,
+  "lon": 22.27361111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Aboa_Vetus_%26_Ars_Nova_ulkokuva_2016.jpg/1280px-Aboa_Vetus_%26_Ars_Nova_ulkokuva_2016.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Aboa_Vetus_%26_Ars_Nova_ulkokuva_2016.jpg/500px-Aboa_Vetus_%26_Ars_Nova_ulkokuva_2016.jpg"
+ },
+ "Pyynikki": {
+  "title": "Pyynikki",
+  "url": "https://en.wikipedia.org/wiki/Pyynikki",
+  "lat": 61.496156,
+  "lon": 23.732496,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pyynikki_ridge2.jpg/1280px-Pyynikki_ridge2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pyynikki_ridge2.jpg/500px-Pyynikki_ridge2.jpg"
+ },
+ "Näsinneula": {
+  "title": "Näsinneula",
+  "url": "https://en.wikipedia.org/wiki/N%C3%A4sinneula",
+  "lat": 61.505,
+  "lon": 23.74333333,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/N%C3%A4sinneula2.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f6/N%C3%A4sinneula2.jpg"
+ },
+ "Rajaportti Sauna": null,
+ "Porvoo Cathedral": {
+  "title": "Porvoo Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Porvoo_Cathedral",
+  "lat": 60.39722222,
+  "lon": 25.6575,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Porvoo_Cathedral_in_September_2024.jpg/1280px-Porvoo_Cathedral_in_September_2024.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Porvoo_Cathedral_in_September_2024.jpg/500px-Porvoo_Cathedral_in_September_2024.jpg"
+ },
+ "Porvoo Museum": {
+  "title": "Porvoo Museum",
+  "url": "https://en.wikipedia.org/wiki/Porvoo_Museum",
+  "lat": 60.3952,
+  "lon": 25.6581,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Porvoo_CityHall_Photographer.JPG/1280px-Porvoo_CityHall_Photographer.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Porvoo_CityHall_Photographer.JPG/500px-Porvoo_CityHall_Photographer.JPG"
+ },
+ "Lake Inari": {
+  "title": "Lake Inari",
+  "url": "https://en.wikipedia.org/wiki/Lake_Inari",
+  "lat": 69,
+  "lon": 28,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Inari_lake.jpg/1280px-Inari_lake.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Inari_lake.jpg/500px-Inari_lake.jpg"
+ },
+ "Siida": {
+  "title": "Siida",
+  "url": "https://en.wikipedia.org/wiki/Siida",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/S%C3%A1mi_local_community_Siida.jpg/1280px-S%C3%A1mi_local_community_Siida.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/S%C3%A1mi_local_community_Siida.jpg/500px-S%C3%A1mi_local_community_Siida.jpg"
+ },
+ "Sajos": {
+  "title": "Sajos",
+  "url": "https://en.wikipedia.org/wiki/Sajos",
+  "lat": 68.90555556,
+  "lon": 27.02777778,
+  "image": null,
+  "thumb": null
+ },
+ "Old Rauma": {
+  "title": "Old Rauma",
+  "url": "https://en.wikipedia.org/wiki/Old_Rauma",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Hauenguano.jpg/1280px-Hauenguano.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Hauenguano.jpg/500px-Hauenguano.jpg"
+ },
+ "Church of the Holy Cross, Rauma": {
+  "title": "Church of the Holy Cross, Rauma",
+  "url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Cross%2C_Rauma",
+  "lat": 61.12972222,
+  "lon": 21.51222222,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/RaumaKirche.jpg/1280px-RaumaKirche.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/RaumaKirche.jpg/500px-RaumaKirche.jpg"
+ },
+ "Sammallahdenmäki": {
+  "title": "Sammallahdenmäki",
+  "url": "https://en.wikipedia.org/wiki/Sammallahdenm%C3%A4ki",
+  "lat": 61.12055556,
+  "lon": 21.7775,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Sammallahdenm%C3%A4ki_Bronze_age_burial_site_Huilu_Long_ruin.jpg/1280px-Sammallahdenm%C3%A4ki_Bronze_age_burial_site_Huilu_Long_ruin.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Sammallahdenm%C3%A4ki_Bronze_age_burial_site_Huilu_Long_ruin.jpg/500px-Sammallahdenm%C3%A4ki_Bronze_age_burial_site_Huilu_Long_ruin.jpg"
+ },
+ "Kultaranta": {
+  "title": "Kultaranta",
+  "url": "https://en.wikipedia.org/wiki/Kultaranta",
+  "lat": 60.46777778,
+  "lon": 21.99916667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Kultaranta_2012_2.jpg/1280px-Kultaranta_2012_2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Kultaranta_2012_2.jpg/500px-Kultaranta_2012_2.jpg"
+ },
+ "Naantali Church": {
+  "title": "Nådendal Abbey",
+  "url": "https://en.wikipedia.org/wiki/N%C3%A5dendal_Abbey",
+  "lat": 60.471091,
+  "lon": 22.015357,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/N%C3%A5dendal%2C_Finland_framst%C3%A4ldt_i_teckningar_7.jpg/1280px-N%C3%A5dendal%2C_Finland_framst%C3%A4ldt_i_teckningar_7.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/N%C3%A5dendal%2C_Finland_framst%C3%A4ldt_i_teckningar_7.jpg/500px-N%C3%A5dendal%2C_Finland_framst%C3%A4ldt_i_teckningar_7.jpg"
+ },
+ "Koli National Park": {
+  "title": "Koli National Park",
+  "url": "https://en.wikipedia.org/wiki/Koli_National_Park",
+  "lat": 63.0575,
+  "lon": 29.88722222,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Koli_hill_view.jpg/1280px-Koli_hill_view.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Koli_hill_view.jpg/500px-Koli_hill_view.jpg"
+ },
+ "Puijo": {
+  "title": "Puijo (hill)",
+  "url": "https://en.wikipedia.org/wiki/Puijo_(hill)",
+  "lat": 62.90944444,
+  "lon": 27.65583333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Puijo_tower.jpg/1280px-Puijo_tower.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Puijo_tower.jpg/500px-Puijo_tower.jpg"
+ },
+ "Market Square, Helsinki": {
+  "title": "Market Square, Helsinki",
+  "url": "https://en.wikipedia.org/wiki/Market_Square%2C_Helsinki",
+  "lat": 60.167,
+  "lon": 24.955,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Kauppatori_Helsinki1.jpg/1280px-Kauppatori_Helsinki1.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Kauppatori_Helsinki1.jpg/500px-Kauppatori_Helsinki1.jpg"
+ },
+ "Esplanadi": {
+  "title": "Esplanadi",
+  "url": "https://en.wikipedia.org/wiki/Esplanadi",
+  "lat": 60.1675,
+  "lon": 24.94777778,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Esplanadin_puisto_2020.jpg/1280px-Esplanadin_puisto_2020.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Esplanadin_puisto_2020.jpg/500px-Esplanadin_puisto_2020.jpg"
+ },
+ "Kiasma": {
+  "title": "Kiasma",
+  "url": "https://en.wikipedia.org/wiki/Kiasma",
+  "lat": 60.17169,
+  "lon": 24.93683,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kiasmamodernartmuseum.JPG/1280px-Kiasmamodernartmuseum.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kiasmamodernartmuseum.JPG/500px-Kiasmamodernartmuseum.JPG"
+ },
+ "National Museum of Finland": {
+  "title": "National Museum of Finland",
+  "url": "https://en.wikipedia.org/wiki/National_Museum_of_Finland",
+  "lat": 60.1749,
+  "lon": 24.9294,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Kansallismuseo_Helsinki.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Kansallismuseo_Helsinki.jpg/500px-Kansallismuseo_Helsinki.jpg"
+ },
+ "Amos Rex": {
+  "title": "Amos Rex",
+  "url": "https://en.wikipedia.org/wiki/Amos_Rex",
+  "lat": 60.16833333,
+  "lon": 24.93722222,
+  "image": null,
+  "thumb": null
+ },
+ "Design Museum, Helsinki": {
+  "title": "Architecture & Design Museum, Helsinki",
+  "url": "https://en.wikipedia.org/wiki/Architecture_%26_Design_Museum%2C_Helsinki",
+  "lat": 60.16305556,
+  "lon": 24.94638889,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Designmuseo_2019.jpg/1280px-Designmuseo_2019.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Designmuseo_2019.jpg/500px-Designmuseo_2019.jpg"
+ },
+ "Kamppi Chapel": {
+  "title": "Kamppi Chapel",
+  "url": "https://en.wikipedia.org/wiki/Kamppi_Chapel",
+  "lat": 60.16933333,
+  "lon": 24.936,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kamppi_Chapel_2020.jpg/1280px-Kamppi_Chapel_2020.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kamppi_Chapel_2020.jpg/500px-Kamppi_Chapel_2020.jpg"
+ },
+ "Löyly": {
+  "title": "Löyly",
+  "url": "https://en.wikipedia.org/wiki/L%C3%B6yly",
+  "lat": 60.151917,
+  "lon": 24.930111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/L%C3%B6yly_May_2020.jpg/1280px-L%C3%B6yly_May_2020.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/L%C3%B6yly_May_2020.jpg/500px-L%C3%B6yly_May_2020.jpg"
+ },
+ "Allas Sea Pool": {
+  "title": "Allas Sea Pool",
+  "url": "https://en.wikipedia.org/wiki/Allas_Sea_Pool",
+  "lat": 60.16710556,
+  "lon": 24.95783889,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Allas_Sea_Pool_2.jpg/1280px-Allas_Sea_Pool_2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Allas_Sea_Pool_2.jpg/500px-Allas_Sea_Pool_2.jpg"
+ },
+ "Helsinki Central Park": {
+  "title": "Central Park (Helsinki)",
+  "url": "https://en.wikipedia.org/wiki/Central_Park_(Helsinki)",
+  "lat": 60.22305556,
+  "lon": 24.91916667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Keskuspuisto.jpg/1280px-Keskuspuisto.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Keskuspuisto.jpg/500px-Keskuspuisto.jpg"
+ },
+ "Helsinki Olympic Stadium": {
+  "title": "Helsinki Olympic Stadium",
+  "url": "https://en.wikipedia.org/wiki/Helsinki_Olympic_Stadium",
+  "lat": 60.18694444,
+  "lon": 24.92722222,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Olympiastadion_2_2020-08-12.jpg/1280px-Olympiastadion_2_2020-08-12.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Olympiastadion_2_2020-08-12.jpg/500px-Olympiastadion_2_2020-08-12.jpg"
+ },
+ "Helsinki City Museum": {
+  "title": "Helsinki City Museum",
+  "url": "https://en.wikipedia.org/wiki/Helsinki_City_Museum",
+  "lat": 60.16888889,
+  "lon": 24.95416667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kaupunginmuseo2.jpg/1280px-Kaupunginmuseo2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kaupunginmuseo2.jpg/500px-Kaupunginmuseo2.jpg"
+ },
+ "Helsinki Winter Garden": null,
+ "Lonna": {
+  "title": "Lonna",
+  "url": "https://en.wikipedia.org/wiki/Lonna",
+  "lat": 60.15407778,
+  "lon": 24.98950833,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lonna.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Lonna.JPG/500px-Lonna.JPG"
+ },
+ "Nuuksio National Park": {
+  "title": "Nuuksio National Park",
+  "url": "https://en.wikipedia.org/wiki/Nuuksio_National_Park",
+  "lat": 60.3075,
+  "lon": 24.49916667,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mustalampi_Lake_in_Nuuksio.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mustalampi_Lake_in_Nuuksio.jpg"
+ },
+ "Haltia": {
+  "title": "Halti",
+  "url": "https://en.wikipedia.org/wiki/Halti",
+  "lat": 69.32277778,
+  "lon": 21.27888889,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Top_of_Halti_fjeld_-_Finland_-_07-09-2006.jpg/1280px-Top_of_Halti_fjeld_-_Finland_-_07-09-2006.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Top_of_Halti_fjeld_-_Finland_-_07-09-2006.jpg/500px-Top_of_Halti_fjeld_-_Finland_-_07-09-2006.jpg"
+ },
+ "Espoo Museum of Modern Art": {
+  "title": "Espoo Museum of Modern Art",
+  "url": "https://en.wikipedia.org/wiki/Espoo_Museum_of_Modern_Art",
+  "lat": 60.17881,
+  "lon": 24.79425,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/WeeGee-talo.JPG/1280px-WeeGee-talo.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/WeeGee-talo.JPG/500px-WeeGee-talo.JPG"
+ },
+ "Espoo Cathedral": {
+  "title": "Espoo Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Espoo_Cathedral",
+  "lat": 60.20916667,
+  "lon": 24.65222222,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Espoo_Cathedral.jpg/1280px-Espoo_Cathedral.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Espoo_Cathedral.jpg/500px-Espoo_Cathedral.jpg"
+ },
+ "Tapiola": {
+  "title": "Tapiola",
+  "url": "https://en.wikipedia.org/wiki/Tapiola",
+  "lat": 60.17555556,
+  "lon": 24.8025,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Espoon_Tapiola_kes%C3%A4ll%C3%A4.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Espoon_Tapiola_kes%C3%A4ll%C3%A4.jpg/500px-Espoon_Tapiola_kes%C3%A4ll%C3%A4.jpg"
+ },
+ "Heureka": {
+  "title": "Heureka",
+  "url": "https://en.wikipedia.org/wiki/Heureka",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Heureka.jpg/1280px-Heureka.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Heureka.jpg/500px-Heureka.jpg"
+ },
+ "Sipoonkorpi National Park": {
+  "title": "Sipoonkorpi National Park",
+  "url": "https://en.wikipedia.org/wiki/Sipoonkorpi_National_Park",
+  "lat": 60.315,
+  "lon": 25.21888889,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Duckboards_towards_the_lake_Stortr%C3%A4sk_in_Sipoonkorpi%2C_Helsinki%2C_Finland%2C_2021_May.jpg/1280px-Duckboards_towards_the_lake_Stortr%C3%A4sk_in_Sipoonkorpi%2C_Helsinki%2C_Finland%2C_2021_May.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Duckboards_towards_the_lake_Stortr%C3%A4sk_in_Sipoonkorpi%2C_Helsinki%2C_Finland%2C_2021_May.jpg/500px-Duckboards_towards_the_lake_Stortr%C3%A4sk_in_Sipoonkorpi%2C_Helsinki%2C_Finland%2C_2021_May.jpg"
+ },
+ "Finnish Aviation Museum": {
+  "title": "Finnish Aviation Museum",
+  "url": "https://en.wikipedia.org/wiki/Finnish_Aviation_Museum",
+  "lat": 60.30421667,
+  "lon": 24.96086667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FinnishAviationMuseumBuilding.jpg/1280px-FinnishAviationMuseumBuilding.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FinnishAviationMuseumBuilding.jpg/500px-FinnishAviationMuseumBuilding.jpg"
+ },
+ "Runeberg's Home": null,
+ "Svartholm": {
+  "title": "Loviisa",
+  "url": "https://en.wikipedia.org/wiki/Loviisa",
+  "lat": 60.45833333,
+  "lon": 26.23333333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Loviisa_townhall_Square.jpg/1280px-Loviisa_townhall_Square.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Loviisa_townhall_Square.jpg/500px-Loviisa_townhall_Square.jpg"
+ },
+ "Strömfors": {
+  "title": "Ruotsinpyhtää",
+  "url": "https://en.wikipedia.org/wiki/Ruotsinpyht%C3%A4%C3%A4",
+  "lat": 60.525,
+  "lon": 26.46666667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ruotsinpyht%C3%A4%C3%A41.jpg/1280px-Ruotsinpyht%C3%A4%C3%A41.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ruotsinpyht%C3%A4%C3%A41.jpg/500px-Ruotsinpyht%C3%A4%C3%A41.jpg"
+ },
+ "Fiskars": {
+  "title": "Fiskars",
+  "url": "https://en.wikipedia.org/wiki/Fiskars",
+  "lat": null,
+  "lon": null,
+  "image": null,
+  "thumb": null
+ },
+ "Raseborg Castle": {
+  "title": "Raseborg Castle",
+  "url": "https://en.wikipedia.org/wiki/Raseborg_Castle",
+  "lat": 59.99166667,
+  "lon": 23.65111111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Raseborg_22062008_Au%C3%9Fenansicht_03.jpg/1280px-Raseborg_22062008_Au%C3%9Fenansicht_03.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Raseborg_22062008_Au%C3%9Fenansicht_03.jpg/500px-Raseborg_22062008_Au%C3%9Fenansicht_03.jpg"
+ },
+ "Ekenäs Archipelago National Park": {
+  "title": "Ekenäs Archipelago National Park",
+  "url": "https://en.wikipedia.org/wiki/Eken%C3%A4s_Archipelago_National_Park",
+  "lat": 59.82277778,
+  "lon": 23.45416667,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/R%C3%B6djan_flygfoto_mini.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/R%C3%B6djan_flygfoto_mini.jpg/500px-R%C3%B6djan_flygfoto_mini.jpg"
+ },
+ "Ekenäs": null,
+ "Ruissalo": {
+  "title": "Ruissalo",
+  "url": "https://en.wikipedia.org/wiki/Ruissalo",
+  "lat": 60.43333333,
+  "lon": 22.16666667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Ruissalo_aerial_2.jpg/1280px-Ruissalo_aerial_2.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Ruissalo_aerial_2.jpg/500px-Ruissalo_aerial_2.jpg"
+ },
+ "Forum Marinum": {
+  "title": "Forum Marinum",
+  "url": "https://en.wikipedia.org/wiki/Forum_Marinum",
+  "lat": 60.437,
+  "lon": 22.2358,
+  "image": null,
+  "thumb": null
+ },
+ "Turku Market Hall": {
+  "title": "Turku Market Hall",
+  "url": "https://en.wikipedia.org/wiki/Turku_Market_Hall",
+  "lat": 60.44972222,
+  "lon": 22.26611111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Kauppahalli.jpg/1280px-Kauppahalli.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Kauppahalli.jpg/500px-Kauppahalli.jpg"
+ },
+ "Aura River": null,
+ "Turku Art Museum": {
+  "title": "Turku",
+  "url": "https://en.wikipedia.org/wiki/Turku",
+  "lat": 60.4517,
+  "lon": 22.2669,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/View_from_Turku_Cathedral_tower.jpg/1280px-View_from_Turku_Cathedral_tower.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/View_from_Turku_Cathedral_tower.jpg/500px-View_from_Turku_Cathedral_tower.jpg"
+ },
+ "Kurjenrahka National Park": {
+  "title": "Kurjenrahka National Park",
+  "url": "https://en.wikipedia.org/wiki/Kurjenrahka_National_Park",
+  "lat": 60.72055556,
+  "lon": 22.38361111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Savoj%C3%A4rvi_near_Kurjenpes%C3%A4.jpg/1280px-Savoj%C3%A4rvi_near_Kurjenpes%C3%A4.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Savoj%C3%A4rvi_near_Kurjenpes%C3%A4.jpg/500px-Savoj%C3%A4rvi_near_Kurjenpes%C3%A4.jpg"
+ },
+ "Moomin World": {
+  "title": "Moomin World",
+  "url": "https://en.wikipedia.org/wiki/Moomin_World",
+  "lat": 60.47305556,
+  "lon": 22.00472222,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Muumitalo_3.jpg/1280px-Muumitalo_3.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Muumitalo_3.jpg/500px-Muumitalo_3.jpg"
+ },
+ "Kylmäpihlaja": null,
+ "Yyteri": {
+  "title": "Yyteri",
+  "url": "https://en.wikipedia.org/wiki/Yyteri",
+  "lat": 61.56666667,
+  "lon": 21.53333333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/YBF_2010_-_pelit_k%C3%A4ynniss%C3%A4.jpg/1280px-YBF_2010_-_pelit_k%C3%A4ynniss%C3%A4.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/YBF_2010_-_pelit_k%C3%A4ynniss%C3%A4.jpg/500px-YBF_2010_-_pelit_k%C3%A4ynniss%C3%A4.jpg"
+ },
+ "Kirjurinluoto": {
+  "title": "Kirjurinluoto",
+  "url": "https://en.wikipedia.org/wiki/Kirjurinluoto",
+  "lat": 61.49277778,
+  "lon": 21.785,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Tie_Ravintola_Kirjuriin.jpg/1280px-Tie_Ravintola_Kirjuriin.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Tie_Ravintola_Kirjuriin.jpg/500px-Tie_Ravintola_Kirjuriin.jpg"
+ },
+ "Juselius Mausoleum": {
+  "title": "Jusélius Mausoleum",
+  "url": "https://en.wikipedia.org/wiki/Jus%C3%A9lius_Mausoleum",
+  "lat": 61.48777778,
+  "lon": 21.75944444,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Juseliuksen_mausoleumi_1.jpg/1280px-Juseliuksen_mausoleumi_1.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Juseliuksen_mausoleumi_1.jpg/500px-Juseliuksen_mausoleumi_1.jpg"
+ },
+ "Satakunta Museum": {
+  "title": "Satakunta Museum",
+  "url": "https://en.wikipedia.org/wiki/Satakunta_Museum",
+  "lat": 61.48472222,
+  "lon": 21.78027778,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Satakunnan_Museo.JPG/1280px-Satakunnan_Museo.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Satakunnan_Museo.JPG/500px-Satakunnan_Museo.JPG"
+ },
+ "Pori Art Museum": {
+  "title": "Pori Art Museum",
+  "url": "https://en.wikipedia.org/wiki/Pori_Art_Museum",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Porin_taidemuseo.jpg/1280px-Porin_taidemuseo.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Porin_taidemuseo.jpg/500px-Porin_taidemuseo.jpg"
+ },
+ "Kastelholm Castle": {
+  "title": "Kastelholm Castle",
+  "url": "https://en.wikipedia.org/wiki/Kastelholm_Castle",
+  "lat": 60.23305556,
+  "lon": 20.08055556,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Kastelholm-aerial-2017-midsommar-2.png/1280px-Kastelholm-aerial-2017-midsommar-2.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Kastelholm-aerial-2017-midsommar-2.png/500px-Kastelholm-aerial-2017-midsommar-2.png"
+ },
+ "Bomarsund fortress": null,
+ "Åland Maritime Museum": {
+  "title": "Åland Maritime Museum",
+  "url": "https://en.wikipedia.org/wiki/%C3%85land_Maritime_Museum",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%C3%85land_Maritime_Museum%2C_2019_%2802%29.jpg/1280px-%C3%85land_Maritime_Museum%2C_2019_%2802%29.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%C3%85land_Maritime_Museum%2C_2019_%2802%29.jpg/500px-%C3%85land_Maritime_Museum%2C_2019_%2802%29.jpg"
+ },
+ "Jan Karlsgården": null,
+ "Särkänniemi": {
+  "title": "Särkänniemi",
+  "url": "https://en.wikipedia.org/wiki/S%C3%A4rk%C3%A4nniemi",
+  "lat": 61.50527778,
+  "lon": 23.74388889,
+  "image": null,
+  "thumb": null
+ },
+ "Moomin Museum": {
+  "title": "Moomin Museum",
+  "url": "https://en.wikipedia.org/wiki/Moomin_Museum",
+  "lat": 61.49805556,
+  "lon": 23.75055556,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Muumimuseon_sis%C3%A4%C3%A4nk%C3%A4ynti_Tampere-talossa.jpg/1280px-Muumimuseon_sis%C3%A4%C3%A4nk%C3%A4ynti_Tampere-talossa.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Muumimuseon_sis%C3%A4%C3%A4nk%C3%A4ynti_Tampere-talossa.jpg/500px-Muumimuseon_sis%C3%A4%C3%A4nk%C3%A4ynti_Tampere-talossa.jpg"
+ },
+ "Vapriikki": {
+  "title": "Vapriikki Museum Centre",
+  "url": "https://en.wikipedia.org/wiki/Vapriikki_Museum_Centre",
+  "lat": 61.503,
+  "lon": 23.7605,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Vapriikki.jpg/1280px-Vapriikki.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Vapriikki.jpg/500px-Vapriikki.jpg"
+ },
+ "Tampere Cathedral": {
+  "title": "Tampere Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Tampere_Cathedral",
+  "lat": 61.5025,
+  "lon": 23.76972222,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tampereen_tuomiokirkko_kes%C3%A4_2004_IMG_2328.jpg/1280px-Tampereen_tuomiokirkko_kes%C3%A4_2004_IMG_2328.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tampereen_tuomiokirkko_kes%C3%A4_2004_IMG_2328.jpg/500px-Tampereen_tuomiokirkko_kes%C3%A4_2004_IMG_2328.jpg"
+ },
+ "Lenin Museum": null,
+ "Tampere Market Hall": {
+  "title": "Tampere Market Hall",
+  "url": "https://en.wikipedia.org/wiki/Tampere_Market_Hall",
+  "lat": 61.49691944,
+  "lon": 23.75881111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Tampere_market_hall.jpg/1280px-Tampere_market_hall.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Tampere_market_hall.jpg/500px-Tampere_market_hall.jpg"
+ },
+ "Seitseminen National Park": {
+  "title": "Seitseminen National Park",
+  "url": "https://en.wikipedia.org/wiki/Seitseminen_National_Park",
+  "lat": 61.93333333,
+  "lon": 23.43333333,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Seitseminen-mylly.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Seitseminen-mylly.jpg/500px-Seitseminen-mylly.jpg"
+ },
+ "Serlachius Museums": null,
+ "Häme Castle": {
+  "title": "Häme Castle",
+  "url": "https://en.wikipedia.org/wiki/H%C3%A4me_Castle",
+  "lat": 61.00388889,
+  "lon": 24.45805556,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hame_Castle_2019-08.jpg/1280px-Hame_Castle_2019-08.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hame_Castle_2019-08.jpg/500px-Hame_Castle_2019-08.jpg"
+ },
+ "Aulanko": {
+  "title": "Aulanko Nature Reserve",
+  "url": "https://en.wikipedia.org/wiki/Aulanko_Nature_Reserve",
+  "lat": 61.022,
+  "lon": 24.462,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/View_from_Aulanko_Tower_-_panoramio.jpg/1280px-View_from_Aulanko_Tower_-_panoramio.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/View_from_Aulanko_Tower_-_panoramio.jpg/500px-View_from_Aulanko_Tower_-_panoramio.jpg"
+ },
+ "Iittala": {
+  "title": "Iittala",
+  "url": "https://en.wikipedia.org/wiki/Iittala",
+  "lat": null,
+  "lon": null,
+  "image": null,
+  "thumb": null
+ },
+ "Sibelius Hall": {
+  "title": "Sibelius Hall",
+  "url": "https://en.wikipedia.org/wiki/Sibelius_Hall",
+  "lat": 60.995,
+  "lon": 25.65111111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sibelius_hall_Lahti.jpg/1280px-Sibelius_hall_Lahti.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sibelius_hall_Lahti.jpg/500px-Sibelius_hall_Lahti.jpg"
+ },
+ "Vesijärvi": {
+  "title": "Vesijärvi",
+  "url": "https://en.wikipedia.org/wiki/Vesij%C3%A4rvi",
+  "lat": 61.08277778,
+  "lon": 25.53833333,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lahti_lake-night.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lahti_lake-night.jpg/500px-Lahti_lake-night.jpg"
+ },
+ "Church of the Cross (Lahti)": null,
+ "Maretarium": {
+  "title": "Maretarium",
+  "url": "https://en.wikipedia.org/wiki/Maretarium",
+  "lat": 60.46,
+  "lon": 26.95,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Maretarium.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Maretarium.jpg/500px-Maretarium.jpg"
+ },
+ "Maritime Centre Vellamo": null,
+ "Sapokka": null,
+ "Langinkoski": {
+  "title": "Langinkoski",
+  "url": "https://en.wikipedia.org/wiki/Langinkoski",
+  "lat": 60.48877778,
+  "lon": 26.88480556,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Gunnar_Berndtson_-_Salmon_Fishers_at_the_Langinkoski_Rapid.png/1280px-Gunnar_Berndtson_-_Salmon_Fishers_at_the_Langinkoski_Rapid.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Gunnar_Berndtson_-_Salmon_Fishers_at_the_Langinkoski_Rapid.png/500px-Gunnar_Berndtson_-_Salmon_Fishers_at_the_Langinkoski_Rapid.png"
+ },
+ "Repovesi National Park": {
+  "title": "Repovesi National Park",
+  "url": "https://en.wikipedia.org/wiki/Repovesi_National_Park",
+  "lat": 61.18333333,
+  "lon": 26.88333333,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Repoveden_Kansallispuisto_Kesayonauringossa.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Repoveden_Kansallispuisto_Kesayonauringossa.jpg/500px-Repoveden_Kansallispuisto_Kesayonauringossa.jpg"
+ },
+ "Verla Groundwood and Board Mill": {
+  "title": "Verla",
+  "url": "https://en.wikipedia.org/wiki/Verla",
+  "lat": 61.06194444,
+  "lon": 26.64083333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Verla.JPG/1280px-Verla.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Verla.JPG/500px-Verla.JPG"
+ },
+ "Lappeenranta Fortress": {
+  "title": "Lappeenranta Fortress",
+  "url": "https://en.wikipedia.org/wiki/Lappeenranta_Fortress",
+  "lat": 61.06611111,
+  "lon": 28.18333333,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/South_Gate_of_Lappeenranta_Fortification.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/South_Gate_of_Lappeenranta_Fortification.jpg/500px-South_Gate_of_Lappeenranta_Fortification.jpg"
+ },
+ "Saimaa Canal": {
+  "title": "Saimaa Canal",
+  "url": "https://en.wikipedia.org/wiki/Saimaa_Canal",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Saimaa_canal_at_Lappeenranta_Finland.jpg/1280px-Saimaa_canal_at_Lappeenranta_Finland.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Saimaa_canal_at_Lappeenranta_Finland.jpg/500px-Saimaa_canal_at_Lappeenranta_Finland.jpg"
+ },
+ "Imatrankoski": {
+  "title": "Imatrankoski",
+  "url": "https://en.wikipedia.org/wiki/Imatrankoski",
+  "lat": 61.1695,
+  "lon": 28.77363889,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Imatra_Rapids_River_Vuoksi.jpg/1280px-Imatra_Rapids_River_Vuoksi.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Imatra_Rapids_River_Vuoksi.jpg/500px-Imatra_Rapids_River_Vuoksi.jpg"
+ },
+ "Imatran Valtionhotelli": null,
+ "Savonlinna Opera Festival": {
+  "title": "Savonlinna Opera Festival",
+  "url": "https://en.wikipedia.org/wiki/Savonlinna_Opera_Festival",
+  "lat": 61.86388889,
+  "lon": 28.90111111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG/1280px-Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG/500px-Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG"
+ },
+ "Punkaharju": {
+  "title": "Punkaharju",
+  "url": "https://en.wikipedia.org/wiki/Punkaharju",
+  "lat": 61.75,
+  "lon": 29.4,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Punkaharju_road.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Punkaharju_road.jpg/500px-Punkaharju_road.jpg"
+ },
+ "Lusto": null,
+ "Linnansaari National Park": {
+  "title": "Linnansaari National Park",
+  "url": "https://en.wikipedia.org/wiki/Linnansaari_National_Park",
+  "lat": 62.11055556,
+  "lon": 28.50944444,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Linnansaari1.jpg/1280px-Linnansaari1.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Linnansaari1.jpg/500px-Linnansaari1.jpg"
+ },
+ "Headquarters Museum": null,
+ "Astuvansalmi": {
+  "title": "Astuvansalmi rock paintings",
+  "url": "https://en.wikipedia.org/wiki/Astuvansalmi_rock_paintings",
+  "lat": 61.44166667,
+  "lon": 27.54166667,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Astuvansalmi_hirvia.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Astuvansalmi_hirvia.jpg/500px-Astuvansalmi_hirvia.jpg"
+ },
+ "Puijo Tower": {
+  "title": "Puijo tower",
+  "url": "https://en.wikipedia.org/wiki/Puijo_tower",
+  "lat": 62.90944444,
+  "lon": 27.65583333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Puijo_tower.jpg/1280px-Puijo_tower.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Puijo_tower.jpg/500px-Puijo_tower.jpg"
+ },
+ "Kuopio Market Hall": {
+  "title": "Kuopio Market Hall",
+  "url": "https://en.wikipedia.org/wiki/Kuopio_Market_Hall",
+  "lat": 62.89194444,
+  "lon": 27.67861111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kuopio_Market_Hall_2020.jpg/1280px-Kuopio_Market_Hall_2020.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kuopio_Market_Hall_2020.jpg/500px-Kuopio_Market_Hall_2020.jpg"
+ },
+ "Orthodox Church Museum of Finland": null,
+ "Alvar Aalto Museum": {
+  "title": "Alvar Aalto Museum",
+  "url": "https://en.wikipedia.org/wiki/Alvar_Aalto_Museum",
+  "lat": 62.23344,
+  "lon": 25.73102,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Alvar_Aalto_museum_Jyv%C3%A4skyl%C3%A4.jpg/1280px-Alvar_Aalto_museum_Jyv%C3%A4skyl%C3%A4.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Alvar_Aalto_museum_Jyv%C3%A4skyl%C3%A4.jpg/500px-Alvar_Aalto_museum_Jyv%C3%A4skyl%C3%A4.jpg"
+ },
+ "Säynätsalo Town Hall": {
+  "title": "Säynätsalo Town Hall",
+  "url": "https://en.wikipedia.org/wiki/S%C3%A4yn%C3%A4tsalo_Town_Hall",
+  "lat": 62.14027778,
+  "lon": 25.76916667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/SaynatsaloTownHall4.jpg/1280px-SaynatsaloTownHall4.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/SaynatsaloTownHall4.jpg/500px-SaynatsaloTownHall4.jpg"
+ },
+ "Muuratsalo Experimental House": null,
+ "Craft Museum of Finland": {
+  "title": "Craft Museum of Finland",
+  "url": "https://en.wikipedia.org/wiki/Craft_Museum_of_Finland",
+  "lat": 62.242225,
+  "lon": 25.745858,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Suomen_k%C3%A4sity%C3%B6n_museo_Jyv%C3%A4skyl%C3%A4ss%C3%A4_derivative.jpg/1280px-Suomen_k%C3%A4sity%C3%B6n_museo_Jyv%C3%A4skyl%C3%A4ss%C3%A4_derivative.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Suomen_k%C3%A4sity%C3%B6n_museo_Jyv%C3%A4skyl%C3%A4ss%C3%A4_derivative.jpg/500px-Suomen_k%C3%A4sity%C3%B6n_museo_Jyv%C3%A4skyl%C3%A4ss%C3%A4_derivative.jpg"
+ },
+ "Jyväsjärvi": {
+  "title": "Jyväsjärvi",
+  "url": "https://en.wikipedia.org/wiki/Jyv%C3%A4sj%C3%A4rvi",
+  "lat": 62.24,
+  "lon": 25.77,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jyv%C3%A4skyl%C3%A4_-_Jyv%C3%A4sj%C3%A4rvi_at_sunset.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Jyv%C3%A4skyl%C3%A4_-_Jyv%C3%A4sj%C3%A4rvi_at_sunset.jpg/500px-Jyv%C3%A4skyl%C3%A4_-_Jyv%C3%A4sj%C3%A4rvi_at_sunset.jpg"
+ },
+ "Pielisjoki": {
+  "title": "Pielisjoki",
+  "url": "https://en.wikipedia.org/wiki/Pielisjoki",
+  "lat": 62.6,
+  "lon": 29.73333333,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Penttila22.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Penttila22.jpg/500px-Penttila22.jpg"
+ },
+ "Ukko-Koli": null,
+ "Pielinen": {
+  "title": "Pielinen",
+  "url": "https://en.wikipedia.org/wiki/Pielinen",
+  "lat": 63.25,
+  "lon": 29.66666667,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Pielinen-SU.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Pielinen-SU.jpg/500px-Pielinen-SU.jpg"
+ },
+ "Kvarken Archipelago": {
+  "title": "Kvarken",
+  "url": "https://en.wikipedia.org/wiki/Kvarken",
+  "lat": 63.5,
+  "lon": 21,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kvarken.png",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kvarken.png"
+ },
+ "Replot Bridge": {
+  "title": "Replot Bridge",
+  "url": "https://en.wikipedia.org/wiki/Replot_Bridge",
+  "lat": 63.20666667,
+  "lon": 21.47222222,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Replotbron.jpg/1280px-Replotbron.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Replotbron.jpg/500px-Replotbron.jpg"
+ },
+ "Ostrobothnian Museum": {
+  "title": "Ostrobothnian Museum",
+  "url": "https://en.wikipedia.org/wiki/Ostrobothnian_Museum",
+  "lat": 63.0994,
+  "lon": 21.6018,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/OsterbottensMuseum.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/OsterbottensMuseum.jpg/500px-OsterbottensMuseum.jpg"
+ },
+ "Kuntsi Museum of Modern Art": null,
+ "Söderfjärden": {
+  "title": "Söderfjärden",
+  "url": "https://en.wikipedia.org/wiki/S%C3%B6derfj%C3%A4rden",
+  "lat": 63.005,
+  "lon": 21.575,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/S%C3%B6derfj%C3%A4rden_Landsat.jpg/1280px-S%C3%B6derfj%C3%A4rden_Landsat.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/S%C3%B6derfj%C3%A4rden_Landsat.jpg/500px-S%C3%B6derfj%C3%A4rden_Landsat.jpg"
+ },
+ "Oulu Cathedral": {
+  "title": "Oulu Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Oulu_Cathedral",
+  "lat": 65.01472222,
+  "lon": 25.47583333,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Oulu_Cathedral.jpg/1280px-Oulu_Cathedral.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Oulu_Cathedral.jpg/500px-Oulu_Cathedral.jpg"
+ },
+ "Tietomaa": {
+  "title": "Tietomaa",
+  "url": "https://en.wikipedia.org/wiki/Tietomaa",
+  "lat": 65.01805556,
+  "lon": 25.48416667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tietomaa_Oulu_1989.jpg/1280px-Tietomaa_Oulu_1989.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tietomaa_Oulu_1989.jpg/500px-Tietomaa_Oulu_1989.jpg"
+ },
+ "Hupisaaret": null,
+ "Nallikari": {
+  "title": "Nallikari",
+  "url": "https://en.wikipedia.org/wiki/Nallikari",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Nallikari_Oulu_20130811_02.JPG/1280px-Nallikari_Oulu_20130811_02.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Nallikari_Oulu_20130811_02.JPG/500px-Nallikari_Oulu_20130811_02.JPG"
+ },
+ "Hailuoto": {
+  "title": "Hailuoto",
+  "url": "https://en.wikipedia.org/wiki/Hailuoto",
+  "lat": 65.01666667,
+  "lon": 24.71666667,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Hailuoto_Marjaniemi.jpg/1280px-Hailuoto_Marjaniemi.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Hailuoto_Marjaniemi.jpg/500px-Hailuoto_Marjaniemi.jpg"
+ },
+ "Oulu Museum of Art": {
+  "title": "Oulu Museum of Art",
+  "url": "https://en.wikipedia.org/wiki/Oulu_Museum_of_Art",
+  "lat": 65.01833333,
+  "lon": 25.48194444,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Oulu_Museum_of_Art_20170722.jpg/1280px-Oulu_Museum_of_Art_20170722.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Oulu_Museum_of_Art_20170722.jpg/500px-Oulu_Museum_of_Art_20170722.jpg"
+ },
+ "Hiidenportti National Park": {
+  "title": "Hiidenportti National Park",
+  "url": "https://en.wikipedia.org/wiki/Hiidenportti_National_Park",
+  "lat": 63.87277778,
+  "lon": 29.05861111,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hiidenportin_kansallispuisto.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hiidenportin_kansallispuisto.jpg/500px-Hiidenportin_kansallispuisto.jpg"
+ },
+ "Kajaani Castle": {
+  "title": "Kajaani Castle",
+  "url": "https://en.wikipedia.org/wiki/Kajaani_Castle",
+  "lat": 64.22916667,
+  "lon": 27.73277778,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kajaanin_linna.jpg/1280px-Kajaanin_linna.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kajaanin_linna.jpg/500px-Kajaanin_linna.jpg"
+ },
+ "Oulanka National Park": {
+  "title": "Oulanka National Park",
+  "url": "https://en.wikipedia.org/wiki/Oulanka_National_Park",
+  "lat": 66.37555556,
+  "lon": 29.33861111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/FI-Oulanka_NP1.jpg/1280px-FI-Oulanka_NP1.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/FI-Oulanka_NP1.jpg/500px-FI-Oulanka_NP1.jpg"
+ },
+ "Karhunkierros": {
+  "title": "Karhunkierros",
+  "url": "https://en.wikipedia.org/wiki/Karhunkierros",
+  "lat": 66.163,
+  "lon": 29.124,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Karhunkierros_start_hautajarvi.jpg/1280px-Karhunkierros_start_hautajarvi.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Karhunkierros_start_hautajarvi.jpg/500px-Karhunkierros_start_hautajarvi.jpg"
+ },
+ "Kiutaköngäs": null,
+ "Riisitunturi National Park": {
+  "title": "Riisitunturi National Park",
+  "url": "https://en.wikipedia.org/wiki/Riisitunturi_National_Park",
+  "lat": 66.23333333,
+  "lon": 28.5,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Noukavaara_-_Riisitunturi_-_Posio_-_Finland.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Noukavaara_-_Riisitunturi_-_Posio_-_Finland.jpg/500px-Noukavaara_-_Riisitunturi_-_Posio_-_Finland.jpg"
+ },
+ "Ounasvaara": null,
+ "Korundi": null,
+ "Jätkänkynttilä Bridge": null,
+ "Rovaniemi Church": {
+  "title": "Rovaniemi Church",
+  "url": "https://en.wikipedia.org/wiki/Rovaniemi_Church",
+  "lat": null,
+  "lon": null,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rovaniemi_Church_1.jpg/1280px-Rovaniemi_Church_1.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rovaniemi_Church_1.jpg/500px-Rovaniemi_Church_1.jpg"
+ },
+ "SnowCastle of Kemi": {
+  "title": "SnowCastle of Kemi",
+  "url": "https://en.wikipedia.org/wiki/SnowCastle_of_Kemi",
+  "lat": 65.7261,
+  "lon": 24.5687,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/LumiLinna.jpg/1280px-LumiLinna.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/LumiLinna.jpg/500px-LumiLinna.jpg"
+ },
+ "Sampo (icebreaker)": null,
+ "Pyhä-Luosto National Park": {
+  "title": "Pyhä-Luosto National Park",
+  "url": "https://en.wikipedia.org/wiki/Pyh%C3%A4-Luosto_National_Park",
+  "lat": 67.06638889,
+  "lon": 26.97361111,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Isokuru.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Isokuru.JPG/500px-Isokuru.JPG"
+ },
+ "Pallas-Yllästunturi National Park": {
+  "title": "Pallas-Yllästunturi National Park",
+  "url": "https://en.wikipedia.org/wiki/Pallas-Yll%C3%A4stunturi_National_Park",
+  "lat": 68.15888889,
+  "lon": 24.04027778,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pallastunturi_Finland.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Pallastunturi_Finland.jpg/500px-Pallastunturi_Finland.jpg"
+ },
+ "Särestöniemi Museum": null,
+ "Ylläs": {
+  "title": "Ylläs",
+  "url": "https://en.wikipedia.org/wiki/Yll%C3%A4s",
+  "lat": 67.56444444,
+  "lon": 24.22444444,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Takavuoma_bog_and_Yll%C3%A4s_fell_in_Kolari%2C_Lapland%2C_Finland%2C_2021_June.jpg/1280px-Takavuoma_bog_and_Yll%C3%A4s_fell_in_Kolari%2C_Lapland%2C_Finland%2C_2021_June.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Takavuoma_bog_and_Yll%C3%A4s_fell_in_Kolari%2C_Lapland%2C_Finland%2C_2021_June.jpg/500px-Takavuoma_bog_and_Yll%C3%A4s_fell_in_Kolari%2C_Lapland%2C_Finland%2C_2021_June.jpg"
+ },
+ "Urho Kekkonen National Park": {
+  "title": "Urho Kekkonen National Park",
+  "url": "https://en.wikipedia.org/wiki/Urho_Kekkonen_National_Park",
+  "lat": 68.33333333,
+  "lon": 28,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Paratiisikuru_waterfall.JPG/1280px-Paratiisikuru_waterfall.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Paratiisikuru_waterfall.JPG/500px-Paratiisikuru_waterfall.JPG"
+ },
+ "Kiilopää": null,
+ "Kakslauttanen Arctic Resort": null,
+ "Tankavaara": {
+  "title": "Tankavaara",
+  "url": "https://en.wikipedia.org/wiki/Tankavaara",
+  "lat": 68.17916667,
+  "lon": 27.09444444,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tankavaara-kultakyla-auraria.jpg/1280px-Tankavaara-kultakyla-auraria.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tankavaara-kultakyla-auraria.jpg/500px-Tankavaara-kultakyla-auraria.jpg"
+ },
+ "Lemmenjoki National Park": {
+  "title": "Lemmenjoki National Park",
+  "url": "https://en.wikipedia.org/wiki/Lemmenjoki_National_Park",
+  "lat": 68.5,
+  "lon": 25.5,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Lemmenjoki_Autumn.JPG/1280px-Lemmenjoki_Autumn.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Lemmenjoki_Autumn.JPG/500px-Lemmenjoki_Autumn.JPG"
+ },
+ "Saana": {
+  "title": "Saana",
+  "url": "https://en.wikipedia.org/wiki/Saana",
+  "lat": 69.04361111,
+  "lon": 20.85611111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Saana_at_Kilpisj%C3%A4rvi%2C_2012_March.jpg/1280px-Saana_at_Kilpisj%C3%A4rvi%2C_2012_March.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Saana_at_Kilpisj%C3%A4rvi%2C_2012_March.jpg/500px-Saana_at_Kilpisj%C3%A4rvi%2C_2012_March.jpg"
+ },
+ "Treriksröset": {
+  "title": "Three-Country Cairn",
+  "url": "https://en.wikipedia.org/wiki/Three-Country_Cairn",
+  "lat": 69.05997222,
+  "lon": 20.54863889,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Cairn_des_trois_royaumes_-_close_up.jpg/1280px-Cairn_des_trois_royaumes_-_close_up.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Cairn_des_trois_royaumes_-_close_up.jpg/500px-Cairn_des_trois_royaumes_-_close_up.jpg"
+ },
+ "Malla Strict Nature Reserve": {
+  "title": "Malla Strict Nature Reserve",
+  "url": "https://en.wikipedia.org/wiki/Malla_Strict_Nature_Reserve",
+  "lat": 69.06555556,
+  "lon": 20.67111111,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/View_from_saana.JPG/1280px-View_from_saana.JPG",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/View_from_saana.JPG/500px-View_from_saana.JPG"
+ },
+ "Kevo Strict Nature Reserve": {
+  "title": "Kevo Strict Nature Reserve",
+  "url": "https://en.wikipedia.org/wiki/Kevo_Strict_Nature_Reserve",
+  "lat": 69.58083333,
+  "lon": 26.71555556,
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Location_of_Kevo.jpg/1280px-Location_of_Kevo.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Location_of_Kevo.jpg/500px-Location_of_Kevo.jpg"
+ },
+ "Teno (river)": null,
+ "__fileinfo__commons.wikimedia.org:Suomenlinna II ferry.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Suomenlinna_II_ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2272,
+  "height": 1704,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Helsinki Senate Square and Helsinki Cathedral in May 2026.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Helsinki_Senate_Square_and_Helsinki_Cathedral_in_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4608,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Temppeliaukio Church Helsinki.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Temppeliaukio_Church_Helsinki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5797,
+  "height": 2384,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Catedral Uspenski, Helsinki, Finlandia, 2012-08-14, DD 03.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Catedral_Uspenski%2C_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4081,
+  "height": 3426,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Helsinki July 2013-26a.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Helsinki_July_2013-26a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 11647,
+  "height": 5469,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__en.wikipedia.org:The Sibelius Momenument in Helsinki, by the Finnish sculptor Eila Hiltunen.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/The_Sibelius_Momenument_in_Helsinki%2C_by_the_Finnish_sculptor_Eila_Hiltunen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 380,
+  "height": 255,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Snow leopard in Korkeasaari Zoo.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Snow_leopard_in_Korkeasaari_Zoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5760,
+  "height": 3840,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Linnanmäki ilmasta 27.5.2017.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Linnanm%C3%A4ki_ilmasta_27.5.2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5472,
+  "height": 3078,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Seurasaari-2005-johannus2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Seurasaari-2005-johannus2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1567,
+  "height": 1168,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Oodi Library (Helsinki, Finland).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Oodi_Library_%28Helsinki%2C_Finland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2951,
+  "height": 1660,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kaivopuisto in September 3 - Marit Henriksson.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kaivopuisto_in_September_3_-_Marit_Henriksson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3399,
+  "height": 2662,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Vallisaari, Helsinki, Finland 05.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Vallisaari%2C_Helsinki%2C_Finland_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3386,
+  "height": 1771,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Santa Claus Village.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Santa_Claus_Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4032,
+  "height": 3024,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__arktikum-science-centre-museum": {
+  "file": "File:Arktikum 2024.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arktikum_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3464,
+  "height": 4414,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Ranuazooarensarrera.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ranuazooarensarrera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 680,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__santapark-rovaniemi": {
+  "file": "File:Santa Park (5307457814).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Santa_Park_%285307457814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1200,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__arctic-snowhotel": {
+  "file": "File:Team Nunavut dog sledding truck, 2014 Arctic Winter Games.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Team_Nunavut_dog_sledding_truck%2C_2014_Arctic_Winter_Games.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4608,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Turkucastle edit.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Turkucastle_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3917,
+  "height": 3141,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Luostarinmäki Handicrafts Museum.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Luostarinm%C3%A4ki_Handicrafts_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3264,
+  "height": 2448,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Aboa Vetus & Ars Nova ulkokuva 2016.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Aboa_Vetus_%26_Ars_Nova_ulkokuva_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5464,
+  "height": 3642,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Pyynikki ridge2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pyynikki_ridge2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2304,
+  "height": 1728,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Näsinneula2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/N%C3%A4sinneula2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 450,
+  "height": 600,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__rajaportti-sauna": {
+  "file": "File:Rajaportti sauna2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rajaportti_sauna2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2304,
+  "height": 1728,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Porvoo in January.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Porvoo_in_January.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5760,
+  "height": 3840,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Porvoo Cathedral in September 2024.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Porvoo_Cathedral_in_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 14462,
+  "height": 10847,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Porvoo CityHall Photographer.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Porvoo_CityHall_Photographer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3008,
+  "height": 2000,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__postimaki-outdoor-museum": {
+  "file": "File:Mirelle Porvoo.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mirelle_Porvoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Inari lake.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Inari_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1200,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Sámi local community Siida.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/S%C3%A1mi_local_community_Siida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2700,
+  "height": 1709,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__sajos-sami-cultural-centre": {
+  "file": "File:Sami Cultural Center SAJOS Inari village.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sami_Cultural_Center_SAJOS_Inari_village.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3626,
+  "height": 2026,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Hauenguano.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hauenguano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 3000,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:RaumaKirche.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/RaumaKirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1200,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Sammallahdenmäki Bronze age burial site Huilu Long ruin.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sammallahdenm%C3%A4ki_Bronze_age_burial_site_Huilu_Long_ruin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2955,
+  "height": 1855,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kuvakollaasi Naantalista.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kuvakollaasi_Naantalista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5120,
+  "height": 5120,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kultaranta 2012 2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kultaranta_2012_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Nådendal, Finland framstäldt i teckningar 7.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/N%C3%A5dendal%2C_Finland_framst%C3%A4ldt_i_teckningar_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2709,
+  "height": 1933,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Koli hill view.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Koli_hill_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Puijo tower.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Puijo_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3024,
+  "height": 4032,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__lintuniemi-nature-reserve": {
+  "file": "File:Hare tracks in Kuopio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hare_tracks_in_Kuopio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1500,
+  "height": 2000,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__haukanniemi-nature-trail": {
+  "file": "File:Ylisto Bridge.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ylisto_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3048,
+  "height": 2560,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__tourujoen-nature-trail": {
+  "file": "File:Tourujoki nature trail - path.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tourujoki_nature_trail_-_path.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4646,
+  "height": 3340,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__lapakisto-nature-reserve": {
+  "file": "File:Seelammi lean-to and firepit.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Seelammi_lean-to_and_firepit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4608,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__ojen-nature-trail": {
+  "file": "File:Duckboards in Ostrobothnia.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Duckboards_in_Ostrobothnia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1632,
+  "height": 920,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kauppatori Helsinki1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kauppatori_Helsinki1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6000,
+  "height": 4000,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Esplanadin puisto 2020.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Esplanadin_puisto_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4032,
+  "height": 3024,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kiasmamodernartmuseum.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Kiasmamodernartmuseum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3968,
+  "height": 2976,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kansallismuseo Helsinki.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Kansallismuseo_Helsinki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 850,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__amos-rex": {
+  "file": "File:Amos Rex aukio.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Amos_Rex_aukio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5472,
+  "height": 3072,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Designmuseo 2019.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Designmuseo_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3600,
+  "height": 3024,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kamppi Chapel 2020.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kamppi_Chapel_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4032,
+  "height": 3024,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Löyly May 2020.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/L%C3%B6yly_May_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4032,
+  "height": 3024,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Allas Sea Pool 2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Allas_Sea_Pool_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5100,
+  "height": 3375,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__hietaniemi-beach": {
+  "file": "File:Juhannus-hietaniemi-2007.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Juhannus-hietaniemi-2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2272,
+  "height": 1704,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Keskuspuisto.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Keskuspuisto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2592,
+  "height": 1944,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Olympiastadion 2 2020-08-12.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Olympiastadion_2_2020-08-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2395,
+  "height": 1347,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kaupunginmuseo2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kaupunginmuseo2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2500,
+  "height": 1602,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__helsinki-winter-garden": {
+  "file": "File:Winter Garden, Helsinki 06.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Winter_Garden%2C_Helsinki_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4292,
+  "height": 2319,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Lonna.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lonna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 342,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Mustalampi Lake in Nuuksio.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mustalampi_Lake_in_Nuuksio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 399,
+  "height": 533,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__haltia-nature-centre": {
+  "file": "File:Haltia 001.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Haltia_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1250,
+  "height": 833,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:WeeGee-talo.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/WeeGee-talo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 2248,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Espoo Cathedral.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Espoo_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1704,
+  "height": 2272,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Espoon Tapiola kesällä.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Espoon_Tapiola_kes%C3%A4ll%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 678,
+  "height": 504,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Heureka.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Heureka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3264,
+  "height": 2448,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kuusijarvi-recreation-area": {
+  "file": "File:Koivukylänväylän alkupiste.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Koivukyl%C3%A4nv%C3%A4yl%C3%A4n_alkupiste.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 940,
+  "height": 617,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Duckboards towards the lake Storträsk in Sipoonkorpi, Helsinki, Finland, 2021 May.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Duckboards_towards_the_lake_Stortr%C3%A4sk_in_Sipoonkorpi%2C_Helsinki%2C_Finland%2C_2021_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5000,
+  "height": 3333,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:FinnishAviationMuseumBuilding.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/FinnishAviationMuseumBuilding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3609,
+  "height": 2301,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__porvoo-riverside-red-storehouses": {
+  "file": "File:Porvoon kävelysilta 1.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Porvoon_k%C3%A4velysilta_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__runebergs-home": {
+  "file": "File:Porvoo - J L Runeberg Museum Kitchen2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Porvoo_-_J_L_Runeberg_Museum_Kitchen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1200,
+  "height": 1600,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Loviisa townhall Square.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Loviisa_townhall_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4085,
+  "height": 3063,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Ruotsinpyhtää1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ruotsinpyht%C3%A4%C3%A41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1296,
+  "height": 972,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__hanko-beaches": {
+  "file": "File:Restaurants in Itäsatama Hanko.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Restaurants_in_It%C3%A4satama_Hanko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__hanko-water-tower": {
+  "file": "File:WW I monument Hango.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/WW_I_monument_Hango.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 720,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__tulliniemi-nature-trail": {
+  "file": "File:Southernmost point of Finland in Tulliniemi, Hanko, 2021.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Southernmost_point_of_Finland_in_Tulliniemi%2C_Hanko%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 12000,
+  "height": 9000,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__hanko-villa-streets": {
+  "file": "File:Rantakatunäkymä Hanko 280720.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rantakatun%C3%A4kym%C3%A4_Hanko_280720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3000,
+  "height": 1500,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__fiskars-village": {
+  "file": "File:Fiskarsinpässi.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Fiskarsinp%C3%A4ssi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3072,
+  "height": 2048,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Raseborg 22062008 Außenansicht 03.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Raseborg_22062008_Au%C3%9Fenansicht_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3200,
+  "height": 2400,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Rödjan flygfoto mini.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/R%C3%B6djan_flygfoto_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 684,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__ekenas-old-town": {
+  "file": "File:Tammisaari, Finland 54274679617.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tammisaari%2C_Finland_54274679617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6275,
+  "height": 3390,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Turun tuomiokirkko.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Turun_tuomiokirkko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2184,
+  "height": 3537,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Ruissalo aerial 2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ruissalo_aerial_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4024,
+  "height": 2790,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__forum-marinum": {
+  "file": "File:Suomen Joutsen 2005.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Suomen_Joutsen_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1064,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kauppahalli.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kauppahalli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2272,
+  "height": 1704,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__aura-river-promenade": {
+  "file": "File:Kirjastosilta, Aurajoki ja Turun tuomiokirkko, kuvattuna Itäiseltä Rantakadulta, Turku, 8.12.2013.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kirjastosilta%2C_Aurajoki_ja_Turun_tuomiokirkko%2C_kuvattuna_It%C3%A4iselt%C3%A4_Rantakadulta%2C_Turku%2C_8.12.2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:View from Turku Cathedral tower.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/View_from_Turku_Cathedral_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3202,
+  "height": 1113,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Savojärvi near Kurjenpesä.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Savoj%C3%A4rvi_near_Kurjenpes%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1200,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Muumitalo 3.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Muumitalo_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 3000,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__vaski-adventure-island": {
+  "file": "File:Kultaranta 2008.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Kultaranta_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4288,
+  "height": 2848,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__rauma-maritime-museum": {
+  "file": "File:Rauma maritime museum.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rauma_maritime_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 2665,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kylmapihlaja-lighthouse": {
+  "file": "File:Rauma Kylmäpihlaja from lighthouse 2011.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Rauma_Kylm%C3%A4pihlaja_from_lighthouse_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3456,
+  "height": 2304,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:YBF 2010 - pelit käynnissä.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/YBF_2010_-_pelit_k%C3%A4ynniss%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2900,
+  "height": 1850,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Tie Ravintola Kirjuriin.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tie_Ravintola_Kirjuriin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 2820,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Juseliuksen mausoleumi 1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Juseliuksen_mausoleumi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 3130,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Satakunnan Museo.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Satakunnan_Museo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3648,
+  "height": 2736,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Porin taidemuseo.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Porin_taidemuseo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kastelholm-aerial-2017-midsommar-2.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Kastelholm-aerial-2017-midsommar-2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3771,
+  "height": 2828,
+  "mime": "image/png"
+ },
+ "__commons_photo_v1__bomarsund-fortress": {
+  "file": "File:Bomarsund besökscentret 2023-07-14 image05.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bomarsund_bes%C3%B6kscentret_2023-07-14_image05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 8256,
+  "height": 5504,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Åland Maritime Museum, 2019 (02).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/%C3%85land_Maritime_Museum%2C_2019_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3564,
+  "height": 4453,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__jan-karlsgarden": {
+  "file": "File:Jan Karlsgården 3.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jan_Karlsg%C3%A5rden_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3200,
+  "height": 2400,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__sarkanniemi": {
+  "file": "File:Särkänniemi 20150804.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/S%C3%A4rk%C3%A4nniemi_20150804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5060,
+  "height": 3141,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Muumimuseon sisäänkäynti Tampere-talossa.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Muumimuseon_sis%C3%A4%C3%A4nk%C3%A4ynti_Tampere-talossa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3599,
+  "height": 3022,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Vapriikki.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Vapriikki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4296,
+  "height": 2608,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__finlayson-area": {
+  "file": "File:Finlayson Tampere 2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Finlayson_Tampere_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2424,
+  "height": 3127,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Tampereen tuomiokirkko kesä 2004 IMG 2328.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tampereen_tuomiokirkko_kes%C3%A4_2004_IMG_2328.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1704,
+  "height": 2272,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__lenin-museum": {
+  "file": "File:Lenin-museum 1.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Lenin-museum_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1200,
+  "height": 1600,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Tampere market hall.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tampere_market_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2592,
+  "height": 1944,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__hatanpaa-arboretum": {
+  "file": "File:Hatanpää Arboretum 2020.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hatanp%C3%A4%C3%A4_Arboretum_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5472,
+  "height": 3648,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Seitseminen-mylly.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Seitseminen-mylly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 896,
+  "height": 600,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__spy-museum": {
+  "file": "File:Spy Museum Tampere.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Spy_Museum_Tampere.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3000,
+  "height": 4000,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__serlachius-gosta": {
+  "file": "File:Art Museum Gösta on 12th December 2015 Manor.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Art_Museum_G%C3%B6sta_on_12th_December_2015_Manor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2483,
+  "height": 1866,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__serlachius-gustaf": {
+  "file": "File:Serlachius Museum.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Serlachius_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5424,
+  "height": 2423,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Hame Castle 2019-08.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hame_Castle_2019-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2451,
+  "height": 1313,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:View from Aulanko Tower - panoramio.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/View_from_Aulanko_Tower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1440,
+  "height": 1080,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__sibelius-birthplace": {
+  "file": "File:Hameenlinna Sibelius House 1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hameenlinna_Sibelius_House_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2816,
+  "height": 2112,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__hameenlinna-prison-museum": {
+  "file": "File:Hämeen linna 2020-02-29.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/H%C3%A4meen_linna_2020-02-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2000,
+  "height": 1125,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__iittala-village": null,
+ "__commons_photo_v1__lahti-ski-jumps": {
+  "file": "File:Ski jump in summer.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ski_jump_in_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2896,
+  "height": 1944,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Sibelius hall Lahti.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sibelius_hall_Lahti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5200,
+  "height": 3475,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Lahti lake-night.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lahti_lake-night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 522,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__malva-art-museum": {
+  "file": "File:Tomasz Wójcik - Save the baltic sea.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tomasz_W%C3%B3jcik_-_Save_the_baltic_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1604,
+  "height": 1124,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__church-of-the-cross-lahti": {
+  "file": "File:Ristinkirkko Lahti.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ristinkirkko_Lahti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3000,
+  "height": 4000,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Maretarium.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Maretarium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 960,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__maritime-centre-vellamo": {
+  "file": "File:Maritime Centre Vellamo, Kotka (52614867384).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Maritime_Centre_Vellamo%2C_Kotka_%2852614867384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4585,
+  "height": 2910,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__sapokka-water-garden": {
+  "file": "File:Bridge and pier at Sapokka water garden.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bridge_and_pier_at_Sapokka_water_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4608,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Gunnar Berndtson - Salmon Fishers at the Langinkoski Rapid.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Gunnar_Berndtson_-_Salmon_Fishers_at_the_Langinkoski_Rapid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1495,
+  "height": 2084,
+  "mime": "image/png"
+ },
+ "__fileinfo__commons.wikimedia.org:Repoveden Kansallispuisto Kesayonauringossa.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Repoveden_Kansallispuisto_Kesayonauringossa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 616,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Verla.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Verla.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1748,
+  "height": 1178,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:South Gate of Lappeenranta Fortification.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/South_Gate_of_Lappeenranta_Fortification.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 750,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__lappeenranta-sandcastle": {
+  "file": "File:Lappeenranta, Finland - panoramio (16).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Lappeenranta%2C_Finland_-_panoramio_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3264,
+  "height": 1836,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Saimaa canal at Lappeenranta Finland.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Saimaa_canal_at_Lappeenranta_Finland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1972,
+  "height": 1392,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Imatra Rapids River Vuoksi.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Imatra_Rapids_River_Vuoksi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5406,
+  "height": 3604,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__imatra-state-hotel": {
+  "file": "File:Imatra Valtionhotelli 1989.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Imatra_Valtionhotelli_1989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1749,
+  "height": 1190,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kruununpuisto-park": {
+  "file": "File:Kruununpuisto Imatra.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kruununpuisto_Imatra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2448,
+  "height": 3264,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Olavinlinna Savonlinna Finland.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Olavinlinna_Savonlinna_Finland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 7360,
+  "height": 4912,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Olofsborg från sjösidan.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Olofsborg_fr%C3%A5n_sj%C3%B6sidan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3289,
+  "height": 1389,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Punkaharju road.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Punkaharju_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1152,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__lusto-forest-museum": {
+  "file": "File:Lusto 1 AB.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lusto_1_AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2288,
+  "height": 1712,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Linnansaari1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Linnansaari1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2304,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__riihisaari-nature-centre": {
+  "file": "File:Saimaa Schiff.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Saimaa_Schiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1565,
+  "height": 1024,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__savonlinna-market-promenade": {
+  "file": "File:Savonlinnasali.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Savonlinnasali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1165,
+  "height": 807,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__headquarters-museum": {
+  "file": "File:Päämajamuseo.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/P%C3%A4%C3%A4majamuseo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3726,
+  "height": 3085,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Astuvansalmi hirvia.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Astuvansalmi_hirvia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 768,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kenkavero-vicarage": {
+  "file": "File:Mikkelin ammattikorkeakoulun hallintopalvelukeskus.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mikkelin_ammattikorkeakoulun_hallintopalvelukeskus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kuopio Market Hall 2020.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kuopio_Market_Hall_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5000,
+  "height": 3340,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__jatkankamppa-smoke-sauna": {
+  "file": "File:Jynkän koulu - Jynkkä - Kuopio - 1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jynk%C3%A4n_koulu_-_Jynkk%C3%A4_-_Kuopio_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4911,
+  "height": 3011,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__vainolanniemi-park": {
+  "file": "File:Valapaton viiva - Väinönänniemen rantakallio Rönönsalmessa - Väinölänniemi - Kuopio - 3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Valapaton_viiva_-_V%C3%A4in%C3%B6n%C3%A4nniemen_rantakallio_R%C3%B6n%C3%B6nsalmessa_-_V%C3%A4in%C3%B6l%C3%A4nniemi_-_Kuopio_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4487,
+  "height": 2887,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__orthodox-church-museum": {
+  "file": "File:Suomen ortodoksinen kirkkomuseo 2012.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Suomen_ortodoksinen_kirkkomuseo_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 493,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kuopio-museum": {
+  "file": "File:Kuopio, Old Kuopio Museum.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kuopio%2C_Old_Kuopio_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Alvar Aalto museum Jyväskylä.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Alvar_Aalto_museum_Jyv%C3%A4skyl%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4032,
+  "height": 3024,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__harju-ridge-vesilinna": {
+  "file": "File:Jyvaskyla centrum.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jyvaskyla_centrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1700,
+  "height": 1032,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:SaynatsaloTownHall4.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SaynatsaloTownHall4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__muuratsalo-experimental-house": {
+  "file": "File:Inner court Muuratsalo Experimental House.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Inner_court_Muuratsalo_Experimental_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4608,
+  "height": 3072,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Suomen käsityön museo Jyväskylässä derivative.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Suomen_k%C3%A4sity%C3%B6n_museo_Jyv%C3%A4skyl%C3%A4ss%C3%A4_derivative.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1418,
+  "height": 1339,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Jyväskylä - Jyväsjärvi at sunset.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jyv%C3%A4skyl%C3%A4_-_Jyv%C3%A4sj%C3%A4rvi_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 596,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__botania-tropical-garden": {
+  "file": "File:Joensuu university1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Joensuu_university1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 750,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__carelicum": {
+  "file": "File:Carelicum winter.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Carelicum_winter.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Penttila22.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Penttila22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1000,
+  "height": 692,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__joensuu-orthodox-church": {
+  "file": "File:St. Nicholas Orthodox Church Exterior, Vilnius, Lithuania - Diliff.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/St._Nicholas_Orthodox_Church_Exterior%2C_Vilnius%2C_Lithuania_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5431,
+  "height": 7000,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__ukko-koli-summit": {
+  "file": "File:Ukko-Koli in the fall.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ukko-Koli_in_the_fall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1134,
+  "height": 756,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__koli-ski-resort": {
+  "file": "File:Kolin finland.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kolin_finland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2388,
+  "height": 1742,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Pielinen-SU.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Pielinen-SU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 983,
+  "height": 635,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__paha-koli-trail": {
+  "file": "File:July view from Akka-Koli in sunshine.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/July_view_from_Akka-Koli_in_sunshine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4032,
+  "height": 3024,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kvarken.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kvarken.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 316,
+  "height": 380,
+  "mime": "image/png"
+ },
+ "__fileinfo__commons.wikimedia.org:Replotbron.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Replotbron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2956,
+  "height": 1311,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:OsterbottensMuseum.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/OsterbottensMuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1124,
+  "height": 1576,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kuntsi-modern-art": {
+  "file": "File:Kuntsi modern art museum Vaasa Finland.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kuntsi_modern_art_museum_Vaasa_Finland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2935,
+  "height": 2264,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__tropiclandia": {
+  "file": "File:Rantalinna 2017 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Rantalinna_2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2764,
+  "height": 1555,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Söderfjärden Landsat.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/S%C3%B6derfj%C3%A4rden_Landsat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1677,
+  "height": 1176,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kalajoki-sandbanks": null,
+ "__commons_photo_v1__jukupark": {
+  "file": "File:Jukupark Kalajoki.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jukupark_Kalajoki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3968,
+  "height": 2976,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__oulu-market-square": {
+  "file": "File:Toripolliisi 2026.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Toripolliisi_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1925,
+  "height": 1443,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Oulu Cathedral.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Oulu_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2708,
+  "height": 3610,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Tietomaa Oulu 1989.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tietomaa_Oulu_1989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1730,
+  "height": 2500,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__hupisaaret-islands": {
+  "file": "File:Bridge Hupisaaret Oulu 20130524 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bridge_Hupisaaret_Oulu_20130524_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4500,
+  "height": 2819,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Nallikari Oulu 20130811 02.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nallikari_Oulu_20130811_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4500,
+  "height": 3215,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__turkansaari-open-air-museum": {
+  "file": "File:Turkansaari open air museum 2006 06 13.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Turkansaari_open_air_museum_2006_06_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1366,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Hailuoto Marjaniemi.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Hailuoto_Marjaniemi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1479,
+  "height": 1039,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Oulu Museum of Art 20170722.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Oulu_Museum_of_Art_20170722.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4500,
+  "height": 2883,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Vuokatti Church 2022-12-25.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vuokatti_Church_2022-12-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 2992,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__vuokatti-ridge-trails": {
+  "file": "File:Vuokatti 2006 060.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vuokatti_2006_060.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1988,
+  "height": 1397,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Hiidenportin kansallispuisto.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hiidenportin_kansallispuisto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 768,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kajaanin linna.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kajaanin_linna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2288,
+  "height": 1712,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:FI-Oulanka NP1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/FI-Oulanka_NP1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3072,
+  "height": 2304,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Karhunkierros start hautajarvi.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Karhunkierros_start_hautajarvi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1586,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kiutakongas-rapids": {
+  "file": "File:Kiutaköngäs rapids6.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Kiutak%C3%B6ng%C3%A4s_rapids6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6241,
+  "height": 4161,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__ruka-ski-resort": {
+  "file": "File:Ruka village, Finland 2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ruka_village%2C_Finland_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1200,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Noukavaara - Riisitunturi - Posio - Finland.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Noukavaara_-_Riisitunturi_-_Posio_-_Finland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 768,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__ruka-husky-safari": {
+  "file": "File:Ruka village, Finland 2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ruka_village%2C_Finland_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1200,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__ounasvaara-fell": {
+  "file": "File:Center of Rovaniemi.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Center_of_Rovaniemi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1239,
+  "height": 830,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__korundi-house-of-culture": {
+  "file": "File:2011 0406 Korundi aula 02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/2011_0406_Korundi_aula_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3000,
+  "height": 2020,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__pilke-science-centre": {
+  "file": "File:SciencecentrePilke.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/SciencecentrePilke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 683,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__lumberjacks-candle-bridge": {
+  "file": "File:Rovaniemi Lumberjack’s Candle Bridge.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rovaniemi_Lumberjack%E2%80%99s_Candle_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Aurora borealis over Eielson Air Force Base, Alaska.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3008,
+  "height": 1960,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__reindeer-farm-rovaniemi": {
+  "file": "File:Manufacturing opportunities in the state of Washington (1918) (14780587844).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Manufacturing_opportunities_in_the_state_of_Washington_%281918%29_%2814780587844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2064,
+  "height": 1224,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__husky-sled-safari-rovaniemi": {
+  "file": "File:DogCart.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/DogCart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 960,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Rovaniemi Church 1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Rovaniemi_Church_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5020,
+  "height": 4205,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:LumiLinna.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/LumiLinna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__sampo-icebreaker-cruise": {
+  "file": "File:Sampo (1960 icebreaker)-Gulf of Bothnia.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sampo_%281960_icebreaker%29-Gulf_of_Bothnia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 720,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kemi-gemstone-gallery": {
+  "file": "File:Kauppakatu 29 Kemi 20180427.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kauppakatu_29_Kemi_20180427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4500,
+  "height": 2883,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Isokuru.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Isokuru.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1040,
+  "height": 780,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__lampivaara-amethyst-mine": {
+  "file": "File:Metsä-Luoston rantasauna.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mets%C3%A4-Luoston_rantasauna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3676,
+  "height": 2450,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__pyha-ski-resort": {
+  "file": "File:Sonera (4866548809).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sonera_%284866548809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1200,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Levi - panoramio.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Levi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__levi-fell-summit": {
+  "file": "File:Kittilä, Finland - panoramio (37).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kittil%C3%A4%2C_Finland_-_panoramio_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__lainio-snow-village": {
+  "file": "File:Lainio Snow Village Kittilä 20190417 02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Lainio_Snow_Village_Kittil%C3%A4_20190417_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4500,
+  "height": 3002,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Pallastunturi Finland.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pallastunturi_Finland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 960,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__levi-northern-lights-snowmobile": {
+  "file": "File:BLM Winter Bucket List -11- White Mountains National Recreation Area, Alaska, for Trails Surrounded by Rugged Beauty and Northern Lightshow (15983523538).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/BLM_Winter_Bucket_List_-11-_White_Mountains_National_Recreation_Area%2C_Alaska%2C_for_Trails_Surrounded_by_Rugged_Beauty_and_Northern_Lightshow_%2815983523538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 800,
+  "height": 717,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__sarestoniemi-museum": {
+  "file": "File:Särestöniemi studio ruins 02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/S%C3%A4rest%C3%B6niemi_studio_ruins_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3441,
+  "height": 1936,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Takavuoma bog and Ylläs fell in Kolari, Lapland, Finland, 2021 June.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Takavuoma_bog_and_Yll%C3%A4s_fell_in_Kolari%2C_Lapland%2C_Finland%2C_2021_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5000,
+  "height": 2440,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kesankitunturi-hike": {
+  "file": "File:Riemuliiteri.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Riemuliiteri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6000,
+  "height": 4000,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kellokas-nature-centre": {
+  "file": "File:Kellokas Kolari 20190418.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kellokas_Kolari_20190418.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4500,
+  "height": 3003,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Paratiisikuru waterfall.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Paratiisikuru_waterfall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2816,
+  "height": 2112,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kiilopaa-fell": {
+  "file": "File:Hiking trail in Saariselkä.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hiking_trail_in_Saariselk%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4608,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__kaunispaa-fell-top": {
+  "file": "File:Kaunispään huippu.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kaunisp%C3%A4%C3%A4n_huippu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 960,
+  "height": 525,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__glass-igloo-aurora-night": {
+  "file": "File:Wood and flowers.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Wood_and_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2272,
+  "height": 1704,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Tankavaara-kultakyla-auraria.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tankavaara-kultakyla-auraria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1728,
+  "height": 1000,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__pielpajarvi-wilderness-church": {
+  "file": "File:Pielpajärven erämaakirkko 2.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Pielpaj%C3%A4rven_er%C3%A4maakirkko_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 3000,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Lemmenjoki Autumn.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lemmenjoki_Autumn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1067,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__reindeer-sledge-ride-inari": {
+  "file": "File:The Esquimaux Village.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Esquimaux_Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 827,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Saana at Kilpisjärvi, 2012 March.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Saana_at_Kilpisj%C3%A4rvi%2C_2012_March.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2550,
+  "height": 1700,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Cairn des trois royaumes - close up.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cairn_des_trois_royaumes_-_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2048,
+  "height": 1536,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:View from saana.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/View_from_saana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2976,
+  "height": 1984,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Location of Kevo.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Location_of_Kevo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3648,
+  "height": 2736,
+  "mime": "image/jpeg"
+ },
+ "__commons_photo_v1__teno-river-riverside": {
+  "file": "File:Utsjoki Norjan puolelta.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Utsjoki_Norjan_puolelta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1682,
+  "height": 1262,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Helsinki harbour 2022.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Helsinki_harbour_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 16667,
+  "height": 12500,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Senate Square and Lutheran Cathedral in Helsinki.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Senate_Square_and_Lutheran_Cathedral_in_Helsinki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 900,
+  "height": 603,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Rovaniemi Montage.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Rovaniemi_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1750,
+  "height": 2832,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Tampere.lippu.svg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tampere.lippu.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 550,
+  "height": 400,
+  "mime": "image/svg+xml"
+ },
+ "__fileinfo__commons.wikimedia.org:Jyväskylä collage2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jyv%C3%A4skyl%C3%A4_collage2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2322,
+  "height": 2278,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Lahti view 2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lahti_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5100,
+  "height": 3355,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Vaasa.lippu.svg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Vaasa.lippu.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 421,
+  "height": 421,
+  "mime": "image/svg+xml"
+ },
+ "__fileinfo__commons.wikimedia.org:Piispansilta Matinkylä Espoo Iso Omena 280719.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Piispansilta_Matinkyl%C3%A4_Espoo_Iso_Omena_280719.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 2000,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:VantaaMontage1(jpg).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/VantaaMontage1%28jpg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1220,
+  "height": 1670,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Castle of Raseborg (Raaseporin linna) in Tammisaari Finland.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Castle_of_Raseborg_%28Raaseporin_linna%29_in_Tammisaari_Finland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2592,
+  "height": 1944,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Pori.lippu.svg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pori.lippu.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 645,
+  "height": 645,
+  "mime": "image/svg+xml"
+ },
+ "__fileinfo__commons.wikimedia.org:City of kotka.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/City_of_kotka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 855,
+  "height": 556,
+  "mime": "image/png"
+ },
+ "__fileinfo__commons.wikimedia.org:Kouvola aerial 2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kouvola_aerial_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4710,
+  "height": 3090,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Lappeenranta Landscape.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lappeenranta_Landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 6000,
+  "height": 4000,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Imatrankoski Valtionhotelli ilma.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Imatrankoski_Valtionhotelli_ilma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2537,
+  "height": 1781,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Savonlinna satama 20090711.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Savonlinna_satama_20090711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1020,
+  "height": 680,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Mikkelin keskusta Naisvuorelta.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Mikkelin_keskusta_Naisvuorelta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5123,
+  "height": 3371,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Joensuu.lippu.svg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Joensuu.lippu.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 900,
+  "height": 560,
+  "mime": "image/svg+xml"
+ },
+ "__fileinfo__commons.wikimedia.org:Kalajoki kaupungintalo.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kalajoki_kaupungintalo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2227,
+  "height": 1189,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Montage Pokkinen Oulu.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Montage_Pokkinen_Oulu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3841,
+  "height": 5120,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Montage of Kemi 03.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Montage_of_Kemi_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4500,
+  "height": 3375,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Luosto ilmasta.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Luosto_ilmasta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1065,
+  "height": 547,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Äkäslompolo from the top of Ylläs Fell.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/%C3%84k%C3%A4slompolo_from_the_top_of_Yll%C3%A4s_Fell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3000,
+  "height": 2082,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kaunispää.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kaunisp%C3%A4%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 769,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Utsjoki kirkko ja kirkkotuvat.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Utsjoki_kirkko_ja_kirkkotuvat.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2304,
+  "height": 1728,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Postbacken 01.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Postbacken_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4800,
+  "height": 3200,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kuusijärvi smoke saunas letting some smoke, Kuninkaanmäki, Vantaa, Finland, 2023 April.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Kuusij%C3%A4rvi_smoke_saunas_letting_some_smoke%2C_Kuninkaanm%C3%A4ki%2C_Vantaa%2C_Finland%2C_2023_April.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4200,
+  "height": 2640,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Hanko water tower - Hangon vesitorni C IMG 2370.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hanko_water_tower_-_Hangon_vesitorni_C_IMG_2370.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Hämeenlinna vankila museo Prison 1 (2019).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/H%C3%A4meenlinna_vankila_museo_Prison_1_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5184,
+  "height": 3456,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Iittala glass village view.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Iittala_glass_village_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4000,
+  "height": 3000,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kenkävero Mikkeli.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Kenk%C3%A4vero_Mikkeli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4928,
+  "height": 3264,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Suomalainen savusauna.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Suomalainen_savusauna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 956,
+  "height": 1024,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Botania kasvitieteellinen puutarha, Joensuu.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Botania_kasvitieteellinen_puutarha%2C_Joensuu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4608,
+  "height": 3072,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Joensuu, Saint Nicholas Church in April 2016.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Joensuu%2C_Saint_Nicholas_Church_in_April_2016.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4512,
+  "height": 3000,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kalajoen hiekkasärkät 2017.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Kalajoen_hiekkas%C3%A4rk%C3%A4t_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4160,
+  "height": 3120,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Luminen Ounasvaara.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Luminen_Ounasvaara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5896,
+  "height": 3625,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Reindeer Rovaniemi.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Reindeer_Rovaniemi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 3264,
+  "height": 2448,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Huskysafarialappin.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Huskysafarialappin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 569,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Ametisti kide Suomi Lappi Luosto.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ametisti_kide_Suomi_Lappi_Luosto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 2272,
+  "height": 1704,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Pyhä Ski Slopes (4866414897).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pyh%C3%A4_Ski_Slopes_%284866414897%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1600,
+  "height": 1200,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Green aurora curtain over Levi, Kittilä, Lapland, Finland, 2023 September.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Green_aurora_curtain_over_Levi%2C_Kittil%C3%A4%2C_Lapland%2C_Finland%2C_2023_September.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 4200,
+  "height": 2800,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Kakslauttanen Igloo village.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Kakslauttanen_Igloo_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1024,
+  "height": 681,
+  "mime": "image/jpeg"
+ },
+ "__fileinfo__commons.wikimedia.org:Reindeer farm, Inari, Suomi - Finland 2013-03-10 g.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Reindeer_farm%2C_Inari%2C_Suomi_-_Finland_2013-03-10_g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 5760,
+  "height": 3840,
+  "mime": "image/jpeg"
+ }
+}

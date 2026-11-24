@@ -39,6 +39,23 @@ cp .env.example .env.local
 
 If the app is served from another origin than `localhost`, allow it in Ollama with `OLLAMA_ORIGINS`.
 
+## Docker / Coolify
+
+The image builds the site and serves it with nginx on port 80. The browser calls Ollama at `/ollama`, which nginx forwards to your Ollama server. Ollama doesn't need to be public and you don't need `OLLAMA_ORIGINS`.
+
+Settings are read when the container starts, so you can change them without rebuilding:
+
+| Variable | Default | |
+| --- | --- | --- |
+| `OLLAMA_URL` | `http://ollama:11434` | Where the container reaches Ollama |
+| `OLLAMA_MODEL` | *(first chat model)* | Default model, e.g. `granite4.2:3b` |
+| `OLLAMA_API_KEY` | | Optional, sent as `Authorization: Bearer …` |
+
+```bash
+docker build -t reitti .
+docker run -p 8080:80 -e OLLAMA_URL=http://host.docker.internal:11434 -e OLLAMA_MODEL=granite4.2:3b reitti
+```
+
 ## Data
 
 The app loads `public/data.json`, generated from the seed `data.json` and the catalogue in `scripts/catalog/`. Edit those, then run `npm run data`. Photo choices can be fixed per place in `scripts/catalog/image-overrides.mjs`.

@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+.git
+.vite
+.env
+.env.*
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
+Dockerfile
+.dockerignore

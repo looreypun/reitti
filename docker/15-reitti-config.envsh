@@ -1,0 +1,31 @@
+#!/bin/sh
+# Sourced by the nginx image entrypoint before the config templates are rendered.
+# Writes the browser's runtime config and prepares variables for nginx.conf.template.
+
+# Strip a trailing slash so the proxy target is clean.
+OLLAMA_URL="${OLLAMA_URL:-http://ollama:11434}"
+OLLAMA_URL="${OLLAMA_URL%/}"
+export OLLAMA_URL
+
+if [ -n "${OLLAMA_API_KEY:-}" ]; then
+  export OLLAMA_AUTH_HEADER="Bearer $OLLAMA_API_KEY"
+else
+  export OLLAMA_AUTH_HEADER=""
+fi
+
+# Use the container's DNS server so nginx can resolve the Ollama host at request time
+# (nginx still starts if Ollama is down or not yet reachable).
+NGINX_RESOLVER="$(awk '/^nameserver/ { print $2; exit }' /etc/resolv.conf)"
+case "$NGINX_RESOLVER" in
+  "") NGINX_RESOLVER="127.0.0.11" ;;
+  *:*) NGINX_RESOLVER="[$NGINX_RESOLVER]" ;;
+esac
+export NGINX_RESOLVER
+
+# The browser talks to Ollama through this nginx at /ollama (same origin, no CORS).
+model_json="$(printf "%s" "${OLLAMA_MODEL:-}" | sed 's/\\/\\\\/g; s/"/\\"/g')"
+cat > /usr/share/nginx/html/config.js <<EOF
+window.__REITTI_CONFIG__ = { ollamaUrl: "/ollama", ollamaModel: "$model_json" };
+EOF
+
+echo "reitti: proxying /ollama -> $OLLAMA_URL (model: ${OLLAMA_MODEL:-auto})"

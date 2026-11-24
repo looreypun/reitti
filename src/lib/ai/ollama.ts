@@ -1,6 +1,21 @@
-/** Ollama client. Configure with VITE_OLLAMA_URL and VITE_OLLAMA_MODEL. */
-export const OLLAMA_URL = ((import.meta.env.VITE_OLLAMA_URL as string | undefined) || 'http://localhost:11434').replace(/\/$/, '');
-const PREFERRED_MODEL = (import.meta.env.VITE_OLLAMA_MODEL as string | undefined) || undefined;
+/**
+ * Ollama client.
+ * Settings come from window.__REITTI_CONFIG__ (public/config.js, rewritten by the Docker
+ * container at startup), then VITE_OLLAMA_URL / VITE_OLLAMA_MODEL, then defaults.
+ */
+declare global {
+  interface Window {
+    __REITTI_CONFIG__?: { ollamaUrl?: string; ollamaModel?: string };
+  }
+}
+const runtime = (typeof window !== 'undefined' && window.__REITTI_CONFIG__) || {};
+
+export const OLLAMA_URL = (
+  runtime.ollamaUrl ||
+  (import.meta.env.VITE_OLLAMA_URL as string | undefined) ||
+  'http://localhost:11434'
+).replace(/\/$/, '');
+const PREFERRED_MODEL = runtime.ollamaModel || (import.meta.env.VITE_OLLAMA_MODEL as string | undefined) || undefined;
 
 export interface ChatMessage {
   role: 'system' | 'user' | 'assistant';

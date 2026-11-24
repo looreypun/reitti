@@ -1867,19 +1867,6 @@ fieldset {
   font-size: 11.5px;
   color: var(--text-muted);
 }
-.ai-panel__foot label {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-}
-.ai-panel__foot select {
-  font: inherit;
-  color: var(--text);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: var(--surface);
-  padding: 1px 4px;
-}
 @media (max-width: 640px) {
   .topbar__stats {
     display: none;

@@ -15,7 +15,8 @@ export const OLLAMA_URL = (
   (import.meta.env.VITE_OLLAMA_URL as string | undefined) ||
   'http://localhost:11434'
 ).replace(/\/$/, '');
-const PREFERRED_MODEL = runtime.ollamaModel || (import.meta.env.VITE_OLLAMA_MODEL as string | undefined) || undefined;
+/** The chat model set in .env.local (VITE_OLLAMA_MODEL) or the container's OLLAMA_MODEL. */
+export const OLLAMA_MODEL = (runtime.ollamaModel || (import.meta.env.VITE_OLLAMA_MODEL as string | undefined) || '').trim();
 
 export interface ChatMessage {
   role: 'system' | 'user' | 'assistant';
@@ -49,11 +50,14 @@ export async function listChatModels(signal?: AbortSignal): Promise<string[]> {
   return models;
 }
 
-export function pickDefaultModel(models: string[], remembered: string | null): string {
-  for (const candidate of [remembered, PREFERRED_MODEL]) {
-    if (candidate && models.includes(candidate)) return candidate;
-  }
-  return models.find((m) => /granite|llama|qwen|mistral|gemma|phi/i.test(m)) ?? models[0];
+/** Checks that Ollama is reachable and returns the model to chat with. */
+export async function resolveModel(signal?: AbortSignal): Promise<string> {
+  const models = await listChatModels(signal);
+  if (!OLLAMA_MODEL) return models.find((m) => /granite|llama|qwen|mistral|gemma|phi/i.test(m)) ?? models[0];
+  // "granite4.2" matches the installed "granite4.2:latest"
+  const found = models.find((m) => m === OLLAMA_MODEL || m === `${OLLAMA_MODEL}:latest`);
+  if (!found) throw new OllamaError(`The model "${OLLAMA_MODEL}" isn't installed in Ollama.`, 'model');
+  return found;
 }
 
 /** Streams a chat completion, calling onToken with each new piece of text. Resolves with the full reply. */

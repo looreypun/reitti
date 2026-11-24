@@ -5,7 +5,7 @@ Find attractions across Finland and plan your trip day by day.
 - Search 226 places in 40 cities by city, budget, interests and trip length
 - Weather for your travel date (live forecast, climate averages further ahead)
 - Day-by-day itineraries with timed stops and route maps
-- **Ask AI**: chat about places in plain language, answered by a local model via [Ollama](https://ollama.com)
+- **Ask Reitti AI**: chat about places in plain language, answered by a local model via [Ollama](https://ollama.com)
 
 Built with React, TypeScript and Vite.
 

@@ -5,7 +5,7 @@ import type { Place } from '../types';
 import type { DataIndex } from '../data/DataProvider';
 import { buildContext, SYSTEM_PROMPT } from '../lib/ai/context';
 import { citedPlaceIds, parseAnswer, type Inline } from '../lib/ai/answer';
-import { listChatModels, OLLAMA_URL, OllamaError, pickDefaultModel, streamChat, type ChatMessage } from '../lib/ai/ollama';
+import { OLLAMA_MODEL, OLLAMA_URL, OllamaError, resolveModel, streamChat, type ChatMessage } from '../lib/ai/ollama';
 import { todayISO } from '../lib/dates';
 import { formatEUR } from '../lib/format';
 
@@ -19,7 +19,6 @@ interface Turn {
   pending?: boolean;
 }
 
-const MODEL_KEY = 'reitti:ai-model';
 const HISTORY_TURNS = 6;
 const SUGGESTIONS = [
   'Free things to do in Helsinki',
@@ -28,22 +27,7 @@ const SUGGESTIONS = [
   'Family weekend in Turku under €20 per person',
 ];
 
-function readModel(): string | null {
-  try {
-    return localStorage.getItem(MODEL_KEY);
-  } catch {
-    return null;
-  }
-}
-function saveModel(model: string) {
-  try {
-    localStorage.setItem(MODEL_KEY, model);
-  } catch {
-    /* storage unavailable */
-  }
-}
-
-type ModelState = { status: 'loading' } | { status: 'ready'; models: string[] } | { status: 'error'; error: OllamaError | Error };
+type ModelState = { status: 'loading' } | { status: 'ready' } | { status: 'error'; error: OllamaError | Error };
 
 export function AiAssistant({ open, onClose, data }: { open: boolean; onClose: () => void; data: DataIndex | null }) {
   const [modelState, setModelState] = useState<ModelState>({ status: 'loading' });
@@ -59,10 +43,10 @@ export function AiAssistant({ open, onClose, data }: { open: boolean; onClose: (
   const loadModels = useCallback(() => {
     const ctrl = new AbortController();
     setModelState({ status: 'loading' });
-    listChatModels(ctrl.signal)
-      .then((models) => {
-        setModelState({ status: 'ready', models });
-        setModel((current) => (current && models.includes(current) ? current : pickDefaultModel(models, readModel())));
+    resolveModel(ctrl.signal)
+      .then((name) => {
+        setModel(name);
+        setModelState({ status: 'ready' });
       })
       .catch((err: Error) => {
         if (err.name !== 'AbortError') setModelState({ status: 'error', error: err });
@@ -156,14 +140,14 @@ export function AiAssistant({ open, onClose, data }: { open: boolean; onClose: (
   return (
     <>
       <div className={`ai-backdrop ${open ? 'is-open' : ''}`} onClick={onClose} aria-hidden />
-      <aside className={`ai-panel ${open ? 'is-open' : ''}`} role="dialog" aria-modal="false" aria-label="Ask AI">
+      <aside className={`ai-panel ${open ? 'is-open' : ''}`} role="dialog" aria-modal="false" aria-label="Ask Reitti AI">
         <header className="ai-panel__head">
           <div className="ai-panel__title">
             <span className="ai-panel__badge" aria-hidden>
               <Sparkles size={16} />
             </span>
             <div>
-              <h2>Ask AI</h2>
+              <h2>Ask Reitti AI</h2>
               <p>Answers from our places, run on your own computer</p>
             </div>
           </div>
@@ -240,25 +224,8 @@ export function AiAssistant({ open, onClose, data }: { open: boolean; onClose: (
           )}
         </form>
         <div className="ai-panel__foot">
-          {modelState.status === 'ready' && modelState.models.length > 1 ? (
-            <label>
-              Model
-              <select
-                value={model}
-                onChange={(e) => {
-                  setModel(e.target.value);
-                  saveModel(e.target.value);
-                }}
-              >
-                {modelState.models.map((m) => (
-                  <option key={m}>{m}</option>
-                ))}
-              </select>
-            </label>
-          ) : (
-            <span>{model ? `Model: ${model}` : modelState.status === 'loading' ? 'Connecting to Ollama…' : ''}</span>
-          )}
-          <span>AI can make mistakes. Check details before you go.</span>
+          {modelState.status === 'loading' && <span>Connecting to Ollama…</span>}
+          <span>Reitti AI can make mistakes. Check details before you go.</span>
         </div>
       </aside>
     </>
@@ -358,11 +325,11 @@ function OfflineNotice({ error, onRetry }: { error: Error; onRetry: () => void }
   const kind = error instanceof OllamaError ? error.kind : 'other';
   return (
     <div className="ai-offline">
-      <h3>{kind === 'no-models' ? 'No chat model installed' : 'AI is offline'}</h3>
+      <h3>{kind === 'no-models' || kind === 'model' ? 'Chat model not installed' : 'Reitti AI is offline'}</h3>
       <p>{error.message}</p>
-      {kind === 'no-models' ? (
+      {kind === 'no-models' || kind === 'model' ? (
         <p>
-          Install one, then try again: <code>ollama pull granite4.2:3b</code>
+          Install it, then try again: <code>ollama pull {OLLAMA_MODEL || 'granite4.2:3b'}</code>
         </p>
       ) : (
         <p>

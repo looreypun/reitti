@@ -30,7 +30,7 @@ export function Layout() {
               </span>
             )}
             <button type="button" className="btn ai-launch" onClick={() => setAiOpen(true)} aria-expanded={aiOpen} aria-haspopup="dialog">
-              <Sparkles size={16} aria-hidden /> <span>Ask AI</span>
+              <Sparkles size={16} aria-hidden /> <span>Ask Reitti AI</span>
             </button>
           </div>
         </div>

@@ -22,10 +22,19 @@ case "$NGINX_RESOLVER" in
 esac
 export NGINX_RESOLVER
 
-# The browser talks to Ollama through this nginx at /ollama (same origin, no CORS).
-model_json="$(printf "%s" "${OLLAMA_MODEL:-}" | sed 's/\\/\\\\/g; s/"/\\"/g')"
+# Browser settings. Ollama is reached through this nginx at /ollama (same origin, no CORS).
+# Umami visitor stats load only when both UMAMI_URL and UMAMI_WEBSITE_ID are set.
+js_string() { printf '%s' "$1" | sed 's/\\/\\\\/g; s/"/\\"/g'; }
 cat > /usr/share/nginx/html/config.js <<EOF
-window.__REITTI_CONFIG__ = { ollamaUrl: "/ollama", ollamaModel: "$model_json" };
+window.__REITTI_CONFIG__ = {
+  ollamaUrl: "/ollama",
+  ollamaModel: "$(js_string "${OLLAMA_MODEL:-}")",
+  umamiUrl: "$(js_string "${UMAMI_URL:-}")",
+  umamiWebsiteId: "$(js_string "${UMAMI_WEBSITE_ID:-}")"
+};
 EOF
 
 echo "reitti: proxying /ollama -> $OLLAMA_URL (model: ${OLLAMA_MODEL:-auto})"
+if [ -n "${UMAMI_URL:-}" ] && [ -n "${UMAMI_WEBSITE_ID:-}" ]; then
+  echo "reitti: visitor stats via Umami at $UMAMI_URL"
+fi

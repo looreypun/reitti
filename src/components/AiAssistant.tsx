@@ -8,6 +8,7 @@ import { citedPlaceIds, parseAnswer, type Inline } from '../lib/ai/answer';
 import { OLLAMA_MODEL, OLLAMA_URL, OllamaError, resolveModel, streamChat, type ChatMessage } from '../lib/ai/ollama';
 import { todayISO } from '../lib/dates';
 import { formatEUR } from '../lib/format';
+import { trackEvent } from '../lib/analytics';
 
 interface Turn {
   id: number;
@@ -80,6 +81,8 @@ export function AiAssistant({ open, onClose, data }: { open: boolean; onClose: (
     const text = question.trim();
     if (!text || busy || !data || !model) return;
     setInput('');
+    // count questions without recording what was asked
+    trackEvent('ask-ai-question', { suggestion: SUGGESTIONS.includes(text) });
 
     const previousQuestions = turns.filter((t) => t.role === 'user').map((t) => t.content);
     const retrieval = buildContext({

@@ -4,6 +4,7 @@ import { Sparkles } from 'lucide-react';
 import { useDataState } from '../data/DataProvider';
 import { ErrorBoundary } from './Feedback';
 import { AiAssistant } from './AiAssistant';
+import { trackEvent } from '../lib/analytics';
 
 const APP_NAME = 'AI Travel Route Planner';
 const LOGO_SRC = `${import.meta.env.BASE_URL}logo.png`;
@@ -29,7 +30,10 @@ export function Layout() {
                 {state.data.dataset.stats.places} places · {state.data.dataset.stats.destinations} cities
               </span>
             )}
-            <button type="button" className="btn ai-launch" onClick={() => setAiOpen(true)} aria-expanded={aiOpen} aria-haspopup="dialog">
+            <button type="button" className="btn ai-launch" onClick={() => {
+                setAiOpen(true);
+                trackEvent('ask-ai-open');
+              }} aria-expanded={aiOpen} aria-haspopup="dialog">
               <Sparkles size={16} aria-hidden /> <span>Ask Reitti AI</span>
             </button>
           </div>

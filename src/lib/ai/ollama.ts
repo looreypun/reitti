@@ -3,12 +3,7 @@
  * Settings come from window.__REITTI_CONFIG__ (public/config.js, rewritten by the Docker
  * container at startup), then VITE_OLLAMA_URL / VITE_OLLAMA_MODEL, then defaults.
  */
-declare global {
-  interface Window {
-    __REITTI_CONFIG__?: { ollamaUrl?: string; ollamaModel?: string };
-  }
-}
-const runtime = (typeof window !== 'undefined' && window.__REITTI_CONFIG__) || {};
+import { runtimeConfig as runtime } from '../runtimeConfig';
 
 export const OLLAMA_URL = (
   runtime.ollamaUrl ||

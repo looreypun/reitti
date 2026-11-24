@@ -86,6 +86,36 @@ describe('AI answer parsing', () => {
     expect(citedPlaceIds('Start at ateneum, then Suomenlinna [[suomenlinna]].', known, candidates)).toEqual(['ateneum', 'suomenlinna']);
   });
 
+  it('matches places a small model reworded instead of citing', () => {
+    const candidates = [
+      { id: 'aurora-tour', name: 'Northern Lights Hunting Tour', city: 'Rovaniemi', estimated_cost_eur: 99, tags: ['aurora'] },
+      { id: 'igloo', name: 'Glass Igloo Aurora Night', city: 'Saariselkä', estimated_cost_eur: 400, tags: ['aurora'] },
+      { id: 'snowmobile', name: 'Northern Lights Snowmobile Tour', city: 'Levi', estimated_cost_eur: 140, tags: ['aurora'] },
+      { id: 'kaunispaa', name: 'Kaunispää Fell Top', city: 'Saariselkä', estimated_cost_eur: 0, tags: ['aurora'] },
+      { id: 'other', name: 'Arktikum Museum', city: 'Rovaniemi', estimated_cost_eur: 18, tags: ['museum'] },
+    ];
+    const reply = [
+      '- Northern lights are possible in November at Rovaniemi, Saariselkä, and Levi.',
+      '- At Rovaniemi, the tour costs €99 per adult and offers a guided evening experience.',
+      '- At Saariselkä, glass igloo aurora night tours cost €400 per adult.',
+      '- At Levi, snowmobile tours cost €140 per adult.',
+      '- Kaunispaa Fell Top at Saariselkä is free.',
+    ].join('\n');
+    // Rovaniemi has two candidates, so its line needs the price; Levi has one, so naming Levi is enough
+    expect(citedPlaceIds(reply, () => false, candidates)).toEqual(['snowmobile', 'aurora-tour', 'igloo', 'kaunispaa']);
+    expect(citedPlaceIds('- In Levi you can chase the aurora by night.', () => false, candidates)).toEqual(['snowmobile']);
+  });
+
+  it('tidies "(id: [[x]])" markers', () => {
+    expect(parseAnswer('Visit **Ateneum** (id: [[ateneum]]) today', known)[0].inlines).toEqual([
+      { type: 'text', text: 'Visit ' },
+      { type: 'bold', text: 'Ateneum' },
+      { type: 'text', text: ' ' },
+      { type: 'place', id: 'ateneum' },
+      { type: 'text', text: ' today' },
+    ]);
+  });
+
   it('hides reasoning blocks', () => {
     expect(stripThinking('<think>hmm</think>Hello')).toBe('Hello');
     expect(stripThinking('<think>still thinking')).toBe('');
